@@ -16,6 +16,7 @@
   <link rel="preconnect" href="https://cdn.jsdelivr.net">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css">
   <link rel="stylesheet" href="styles.css?v=20260829-4">
+  <link rel="stylesheet" href="assets/scrub.css?v=20260829-1">
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"noop noop","url":"https://nupnup.vercel.app/","logo":"https://nupnup.vercel.app/assets/noopnoop-logo.png","sameAs":["https://blog.naver.com/wotkdwogh1"]}</script>
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"noop noop","url":"https://nupnup.vercel.app/","inLanguage":"ko-KR"}</script>
 </head>
@@ -32,15 +33,23 @@
   </header>
 
   <main id="main">
-    <section class="hero" id="home" aria-labelledby="hero-title">
-      <img class="hero-image" src="assets/noopnoop-03.jpg" alt="블루 스트라이프 파자마를 함께 입은 두 사람이 햇살 드는 주방에 서 있는 모습">
-      <div class="hero-scrim"></div>
-      <div class="hero-content reveal">
-        <p class="eyebrow eyebrow--light">HOMEWEAR FOR GOOD NIGHTS</p>
+    <section class="rd-scrub" id="home" aria-labelledby="hero-title"
+             data-clip="assets/hero-scrub.mp4"
+             data-clip-m="assets/hero-scrub-m.mp4"
+             data-poster="assets/hero-poster.jpg"
+             data-poster-m="assets/hero-poster-m.jpg"
+             data-scroll="3">
+      <div class="rd-scrub__band" data-a="0" data-b="0.46">
+        <span class="rd-scrub__kicker">HOMEWEAR FOR GOOD NIGHTS</span>
         <h1 id="hero-title">예쁜 순간으로<br>끝나지 않는,<br>기분 좋은 밤.</h1>
-        <a class="hero-link" href="#featured">첫 번째 컬렉션 보기 <span aria-hidden="true">↘</span></a>
+        <p>하루의 끝이 조금 더 나다워지도록.</p>
       </div>
-      <p class="hero-index">NOOP NOOP — 2026</p>
+      <div class="rd-scrub__band" data-a="0.5" data-b="1">
+        <span class="rd-scrub__kicker">NOOP NOOP — 2026</span>
+        <h2>함께 고른<br>홈웨어.</h2>
+        <p>나란히 입고, 각자의 방식으로.</p>
+        <a class="rd-scrub__btn" href="#featured">첫 번째 컬렉션 보기</a>
+      </div>
     </section>
 
     <div class="message-bar" aria-label="브랜드 핵심 가치">
@@ -108,6 +117,7 @@
     <div class="footer-nav"><a href="about.html">내 소개</a><a href="products.html">제품</a><a href="story/">이야기</a><a href="#contact">연락하기</a></div>
     <div class="footer-bottom"><span>© <span id="year">2026</span> NOOP NOOP</span><a href="https://blog.naver.com/wotkdwogh1" target="_blank" rel="noopener noreferrer">NAVER BLOG ↗</a></div>
   </footer>
+  <script src="assets/scrub.js?v=20260829-1" defer></script>
   <script src="script.js?v=20260829-3"></script>
 </body>
 </html>

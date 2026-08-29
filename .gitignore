@@ -1,0 +1,3 @@
+# Source videos are kept locally; only optimized scrub assets are committed.
+assets/raw.mp4
+assets/*.part
