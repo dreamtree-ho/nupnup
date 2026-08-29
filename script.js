@@ -180,6 +180,9 @@ const renderFeaturedProduct = async (container) => {
     tagline.className = 'featured-tagline';
     tagline.textContent = product.tagline || '';
     const featuredPrice = Number.parseInt(String(product.price ?? '').replace(/[^0-9-]/g, ''), 10) || 0;
+    const price = document.createElement('p');
+    price.className = 'product-price';
+    price.textContent = featuredPrice ? `${featuredPrice.toLocaleString('ko-KR')}원` : '스토어에서 가격 보기';
     const actions = document.createElement('div');
     actions.className = 'featured-actions';
     const cartButton = document.createElement('button');
@@ -197,7 +200,7 @@ const renderFeaturedProduct = async (container) => {
     action.rel = 'noopener noreferrer';
     action.innerHTML = '구매하기 <span aria-hidden="true">↗</span>';
     actions.append(cartButton, action);
-    content.append(meta, title, tagline, actions);
+    content.append(meta, title, tagline, price, actions);
 
     container.replaceChildren(media, content);
     observeNewReveal(media);
