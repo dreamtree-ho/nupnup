@@ -7,16 +7,16 @@
    ========================================================================== */
 :root {
   --scrub-ink:     #ffffff;                       /* 영상 위 글자색 */
-  --scrub-dim:     rgba(255,255,255,.8);          /* 보조 문장 · 킥커 */
-  --scrub-bg:      #2e2e2e;                       /* 영상 로드 전 바탕 · 스크림 색 */
-  --scrub-scrim:   .58;                           /* 어두운 막 세기 0(없음)~1 */
-  --scrub-font:    Pretendard,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
-  --scrub-title:   clamp(3.25rem, 8vw, 8.8rem);   /* 기존 noop noop 히어로 크기 */
-  --scrub-pad:     clamp(1.25rem, 8vw, 8rem);     /* 좌우 여백 */
+  --scrub-dim:     rgba(255,255,255,.72);         /* 보조 문장 · 킥커 */
+  --scrub-bg:      #0e0b08;                       /* 영상 로드 전 바탕 · 스크림 색 */
+  --scrub-scrim:   .55;                           /* 어두운 막 세기 0(없음)~1 */
+  --scrub-font:    inherit;                       /* 제목 서체 (예: "Noto Serif KR", serif) */
+  --scrub-title:   clamp(32px, 7vw, 68px);        /* 제목 크기 */
+  --scrub-pad:     clamp(20px, 6vw, 72px);        /* 좌우 여백 */
   --scrub-align:   left;                          /* left | center (문구 정렬) */
   --scrub-justify: start;                         /* start | center (문구 덩어리 위치) */
-  --scrub-accent:  #2f6fed;                       /* noop noop 포인트색 */
-  --scrub-accent-ink: #ffffff;                    /* 버튼 글자 */
+  --scrub-accent:  #ffffff;                       /* 버튼 바탕 */
+  --scrub-accent-ink: #111111;                    /* 버튼 글자 */
 }
 
 .rd-scrub { position: relative; background: var(--scrub-bg); color: var(--scrub-ink); }
@@ -55,7 +55,7 @@
 }
 .rd-scrub__band h1, .rd-scrub__band h2 {
   margin: 0; font-family: var(--scrub-font); font-size: var(--scrub-title); line-height: 1.12;
-  letter-spacing: -.065em; font-weight: 250; color: var(--scrub-ink); max-width: 14ch;
+  letter-spacing: -.02em; font-weight: 700; color: var(--scrub-ink); max-width: 14ch;
   text-shadow: 0 2px 24px rgba(0,0,0,.25);
 }
 .rd-scrub__band p { margin: 16px 0 0; font-size: clamp(15px, 1.6vw, 18px); line-height: 1.7; color: var(--scrub-dim); max-width: 34ch; }

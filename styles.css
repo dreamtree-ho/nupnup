@@ -73,6 +73,11 @@ button { color:inherit; font:inherit; }
 .product-price { margin:.75rem 0 0; color:var(--cobalt); font-size:.82rem; font-weight:700; }
 .buy-button { display:inline-flex; align-items:center; gap:.8rem; padding:.7rem 0; border-bottom:1px solid var(--charcoal); font-size:.7rem; font-weight:650; white-space:nowrap; }
 .buy-button span { color:var(--cobalt); }
+.product-actions { display:flex; flex-direction:column; align-items:flex-end; gap:.35rem; }
+.featured-actions { display:flex; flex-direction:column; align-items:flex-start; gap:.45rem; margin-top:3rem; }
+.featured-actions .action-link { margin-top:0; }
+.cart-add-button { appearance:none; border-top:0; border-right:0; border-left:0; border-radius:0; background:transparent; color:inherit; font-family:inherit; cursor:pointer; }
+.cart-add-button:focus-visible { outline:2px solid var(--cobalt); outline-offset:4px; }
 .products-more { display:flex; justify-content:flex-end; margin-top:8vh; }
 .products-status { grid-column:1/-1; margin:0; padding:8vh 0; border-top:1px solid var(--charcoal); border-bottom:1px solid var(--charcoal); font-size:.85rem; }
 
@@ -98,7 +103,9 @@ button { color:inherit; font:inherit; }
 .footer-brand { font-size:clamp(2.2rem,4vw,4.3rem); font-weight:650; letter-spacing:-.07em; }
 .footer-brand .brand-logo { height:clamp(2.4rem,4.5vw,4.6rem); filter:invert(1); mix-blend-mode:screen; }
 .footer-nav { display:flex; gap:2.5rem; margin:4rem 0 7rem; font-size:.72rem; }
-.footer-bottom { display:flex; justify-content:space-between; padding-top:1.2rem; border-top:1px solid var(--white); font-size:.6rem; letter-spacing:.1em; }
+.footer-bottom { display:flex; justify-content:space-between; gap:2rem; padding-top:1.2rem; border-top:1px solid var(--white); font-size:.6rem; letter-spacing:.1em; }
+.footer-contact-links { display:flex; flex-wrap:wrap; justify-content:flex-end; gap:1rem 2rem; }
+.footer-contact-links a:hover,.footer-contact-links a:focus-visible { color:var(--cobalt); }
 .reveal { opacity:0; transform:translateY(28px); transition:opacity .75s ease,transform .75s ease; }
 .reveal.is-visible { opacity:1; transform:none; }
 
@@ -146,8 +153,37 @@ button { color:inherit; font:inherit; }
   .contact-inner>a { overflow-wrap:anywhere; font-size:1.05rem; }
   .site-footer { padding-inline:1.25rem; }
   .footer-nav { display:grid; grid-template-columns:1fr 1fr; gap:1rem; }
+  .footer-bottom { flex-direction:column; }
+  .footer-contact-links { justify-content:flex-start; }
   .brand-logo { height:1.45rem; }
   .footer-brand .brand-logo { height:2.65rem; }
+}
+
+/* Contact page */
+.contact-page .site-header { color:var(--charcoal); }
+.contact-page .site-nav a[aria-current="page"] { color:var(--cobalt); }
+.contact-page-hero { min-height:100svh; padding:18vh 8vw 15vh; display:grid; grid-template-columns:.65fr 2fr; gap:5vw; align-content:center; }
+.contact-page-copy h1 { max-width:11ch; margin:0; font-size:clamp(4rem,8vw,9rem); font-weight:250; letter-spacing:-.075em; line-height:.93; text-wrap:balance; }
+.contact-page-copy>p:last-child { max-width:40ch; margin:3rem 0 0; font-size:clamp(.92rem,1.15vw,1.12rem); line-height:1.8; }
+.contact-options { padding:0 8vw 18vh; }
+.contact-option { display:grid; grid-template-columns:.45fr 1.55fr; gap:4vw; align-items:center; padding:clamp(1.8rem,3.2vw,3rem) 0; border-top:1px solid var(--charcoal); transition:color .3s ease,padding-left .3s ease; }
+.contact-option:last-child { border-bottom:1px solid var(--charcoal); }
+.contact-option span { color:var(--cobalt); font-size:.66rem; font-weight:700; letter-spacing:.14em; text-transform:uppercase; }
+.contact-option strong { min-width:0; overflow-wrap:anywhere; font-size:clamp(1.65rem,4vw,4.7rem); font-weight:250; letter-spacing:-.055em; line-height:1.05; }
+.contact-option:hover,.contact-option:focus-visible { color:var(--cobalt); padding-left:1rem; }
+
+@media (max-width:900px) {
+  .contact-page .menu-button[aria-expanded="false"] { color:var(--charcoal); }
+  .contact-page-hero { grid-template-columns:1fr; gap:10vh; padding-inline:1.25rem; }
+  .contact-options { padding-inline:1.25rem; }
+}
+
+@media (max-width:560px) {
+  .contact-page-hero { padding-top:18vh; padding-bottom:15vh; }
+  .contact-page-copy h1 { font-size:clamp(3.15rem,15vw,4.2rem); }
+  .contact-options { padding-bottom:15vh; }
+  .contact-option { grid-template-columns:1fr; gap:.8rem; padding:1.8rem 0; }
+  .contact-option strong { font-size:clamp(1.4rem,7vw,2rem); }
 }
 
 @media (prefers-reduced-motion:reduce) {

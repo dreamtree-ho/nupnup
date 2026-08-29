@@ -3,32 +3,46 @@
   "updatedAt": "2026-08-29",
   "products": [
     {
-      "name": "Uni-fit 블루메리 파자마",
+      "name": "[ Uni-Fit ] Pure - 퓨어 블루메리 파자마",
       "price": 79900,
       "image": "assets/product-09.jpg",
-      "url": "https://noopnoop.co.kr/?NaPm=ct%3Dmtdwlce4%7Cci%3Dcheckout%7Ctr%3Dds%7Ctrx%3Dnull%7Chk%3Df29147c17faf82791b078ea0f67a0a4a9c99fc51",
-      "tagline": "나란히 입고, 각자의 방식으로."
+      "url": "https://noopnoop.co.kr/product/uni-fit-pure-%ED%93%A8%EC%96%B4-%EB%B8%94%EB%A3%A8%EB%A9%94%EB%A6%AC-%ED%8C%8C%EC%9E%90%EB%A7%88m/680/category/63/display/1/",
+      "tagline": "나란히 입고, 각자의 방식으로.",
+      "variants": [
+        {"label": "M", "productNo": 680, "itemCode": "P0000BAE000A", "url": "https://noopnoop.co.kr/product/uni-fit-pure-%ED%93%A8%EC%96%B4-%EB%B8%94%EB%A3%A8%EB%A9%94%EB%A6%AC-%ED%8C%8C%EC%9E%90%EB%A7%88m/680/category/63/display/1/"},
+        {"label": "L", "productNo": 681, "itemCode": "P0000BAF000A", "url": "https://noopnoop.co.kr/product/uni-fit-pure-%ED%93%A8%EC%96%B4-%EB%B8%94%EB%A3%A8%EB%A9%94%EB%A6%AC-%ED%8C%8C%EC%9E%90%EB%A7%88l/681/category/63/display/1/"}
+      ]
     },
     {
-      "name": "로지 스트라이프 파자마",
-      "price": 69800,
+      "name": "[ Uni-Fit ] Pure - 퓨어 캘리 파자마",
+      "price": 79900,
       "image": "assets/product-10.jpg",
-      "url": "https://noopnoop.co.kr/?NaPm=ct%3Dmtdwlce4%7Cci%3Dcheckout%7Ctr%3Dds%7Ctrx%3Dnull%7Chk%3Df29147c17faf82791b078ea0f67a0a4a9c99fc51",
-      "tagline": "햇살이 드는 주말 아침에."
+      "url": "https://noopnoop.co.kr/product/uni-fit-pure-%ED%93%A8%EC%96%B4-%EC%BA%98%EB%A6%AC-%ED%8C%8C%EC%9E%90%EB%A7%88m/682/category/63/display/1/",
+      "tagline": "햇살이 드는 주말 아침에.",
+      "variants": [
+        {"label": "M", "productNo": 682, "itemCode": "P0000BAG000A", "url": "https://noopnoop.co.kr/product/uni-fit-pure-%ED%93%A8%EC%96%B4-%EC%BA%98%EB%A6%AC-%ED%8C%8C%EC%9E%90%EB%A7%88m/682/category/63/display/1/"},
+        {"label": "L", "productNo": 683, "itemCode": "P0000BAH000A", "url": "https://noopnoop.co.kr/product/uni-fit-pure-%ED%93%A8%EC%96%B4-%EC%BA%98%EB%A6%AC-%ED%8C%8C%EC%9E%90%EB%A7%88l/683/category/63/display/1/"}
+      ]
     },
     {
-      "name": "리틀 가든 로브 세트",
+      "name": "[ Breeze ] - 브리즈 스프링가든 로브",
       "price": 73600,
       "image": "assets/product-04.jpg",
-      "url": "https://noopnoop.co.kr/?NaPm=ct%3Dmtdwlce4%7Cci%3Dcheckout%7Ctr%3Dds%7Ctrx%3Dnull%7Chk%3Df29147c17faf82791b078ea0f67a0a4a9c99fc51",
-      "tagline": "잠들기 전, 가볍게 걸치는 시간."
+      "url": "https://noopnoop.co.kr/product/breeze-%EB%B8%8C%EB%A6%AC%EC%A6%88-%EC%8A%A4%ED%94%84%EB%A7%81%EA%B0%80%EB%93%A0-%EB%A1%9C%EB%B8%8C/693/category/63/display/1/",
+      "tagline": "잠들기 전, 가볍게 걸치는 시간.",
+      "variants": [
+        {"label": "단일 품목", "productNo": 693, "itemCode": "P0000BAR000A", "url": "https://noopnoop.co.kr/product/breeze-%EB%B8%8C%EB%A6%AC%EC%A6%88-%EC%8A%A4%ED%94%84%EB%A7%81%EA%B0%80%EB%93%A0-%EB%A1%9C%EB%B8%8C/693/category/63/display/1/"}
+      ]
     },
     {
-      "name": "모닝 블룸 파자마",
+      "name": "[ Breeze ] - 브리즈 루체 파자마",
       "price": 79900,
       "image": "assets/product-05.jpg",
-      "url": "https://noopnoop.co.kr/?NaPm=ct%3Dmtdwlce4%7Cci%3Dcheckout%7Ctr%3Dds%7Ctrx%3Dnull%7Chk%3Df29147c17faf82791b078ea0f67a0a4a9c99fc51",
-      "tagline": "느린 아침을 화사하게 시작할 때."
+      "url": "https://noopnoop.co.kr/product/breeze-%EB%B8%8C%EB%A6%AC%EC%A6%88-%EB%A3%A8%EC%B2%B4-%ED%8C%8C%EC%9E%90%EB%A7%88/690/category/63/display/1/",
+      "tagline": "느린 아침을 화사하게 시작할 때.",
+      "variants": [
+        {"label": "단일 품목", "productNo": 690, "itemCode": "P0000BAO000A", "url": "https://noopnoop.co.kr/product/breeze-%EB%B8%8C%EB%A6%AC%EC%A6%88-%EB%A3%A8%EC%B2%B4-%ED%8C%8C%EC%9E%90%EB%A7%88/690/category/63/display/1/"}
+      ]
     }
   ]
 }

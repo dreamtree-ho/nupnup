@@ -1,3 +1,7 @@
 # Source videos are kept locally; only optimized scrub assets are committed.
 assets/raw.mp4
 assets/*.part
+
+# Local helper caches are not part of the static site.
+__pycache__/
+*.pyc

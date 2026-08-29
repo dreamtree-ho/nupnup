@@ -50,6 +50,7 @@ const createProductCard = (product, index) => {
   card.className = 'product-card reveal';
 
   const hasPurchaseUrl = typeof product.url === 'string' && product.url.trim() !== '';
+  const productPrice = Number.parseInt(String(product.price ?? '').replace(/[^0-9-]/g, ''), 10) || 0;
   const destination = hasPurchaseUrl ? product.url : 'index.html#contact';
   const imageLink = document.createElement('a');
   imageLink.className = 'product-image';
@@ -78,7 +79,18 @@ const createProductCard = (product, index) => {
   tagline.textContent = product.tagline || '';
   const price = document.createElement('p');
   price.className = 'product-price';
-  price.textContent = '스토어에서 가격 보기';
+  price.textContent = productPrice ? productPrice.toLocaleString('ko-KR') + '원' : '공식몰에서 가격 확인';
+
+  const actions = document.createElement('div');
+  actions.className = 'product-actions';
+  const cartButton = document.createElement('button');
+  cartButton.type = 'button';
+  cartButton.className = 'buy-button cart-add-button';
+  cartButton.dataset.cartAdd = '';
+  cartButton.dataset.name = product.name;
+  cartButton.dataset.price = String(productPrice);
+  if (hasPurchaseUrl) cartButton.dataset.url = product.url;
+  cartButton.innerHTML = '장바구니 담기 <span aria-hidden="true">＋</span>';
 
   const actionLink = document.createElement('a');
   actionLink.className = 'buy-button';
@@ -91,7 +103,8 @@ const createProductCard = (product, index) => {
   actionLink.innerHTML = (hasPurchaseUrl ? '구매하기' : '제품 문의') + ' <span aria-hidden="true">↗</span>';
 
   copy.append(name, tagline, price);
-  info.append(copy, actionLink);
+  actions.append(cartButton, actionLink);
+  info.append(copy, actions);
   card.append(imageLink, info);
   return card;
 };
@@ -106,7 +119,7 @@ const renderProducts = async (grid) => {
     const limit = Number.parseInt(grid.dataset.limit || '', 10);
     let products = data.products.slice();
     if (grid.dataset.excludeFeature === 'true') {
-      products = products.filter((product) => product.name !== 'Uni-fit 블루메리 파자마');
+      products = products.filter((product) => product.name !== '[ Uni-Fit ] Pure - 퓨어 블루메리 파자마');
     }
     if (Number.isFinite(limit)) products = products.slice(0, limit);
     grid.replaceChildren();
@@ -137,7 +150,7 @@ const renderFeaturedProduct = async (container) => {
     if (!response.ok) throw new Error('대표 제품 데이터를 불러오지 못했습니다: ' + response.status);
     const data = await response.json();
     const product = Array.isArray(data.products)
-      ? data.products.find((item) => item.name === 'Uni-fit 블루메리 파자마')
+      ? data.products.find((item) => item.name === '[ Uni-Fit ] Pure - 퓨어 블루메리 파자마')
       : null;
     if (!product) throw new Error('대표 제품을 찾을 수 없습니다.');
 
@@ -166,13 +179,25 @@ const renderFeaturedProduct = async (container) => {
     const tagline = document.createElement('p');
     tagline.className = 'featured-tagline';
     tagline.textContent = product.tagline || '';
+    const featuredPrice = Number.parseInt(String(product.price ?? '').replace(/[^0-9-]/g, ''), 10) || 0;
+    const actions = document.createElement('div');
+    actions.className = 'featured-actions';
+    const cartButton = document.createElement('button');
+    cartButton.type = 'button';
+    cartButton.className = 'action-link cart-add-button';
+    cartButton.dataset.cartAdd = '';
+    cartButton.dataset.name = product.name;
+    cartButton.dataset.price = String(featuredPrice);
+    if (product.url) cartButton.dataset.url = product.url;
+    cartButton.innerHTML = '장바구니 담기 <span aria-hidden="true">＋</span>';
     const action = document.createElement('a');
     action.className = 'action-link';
     action.href = destination;
     action.target = '_blank';
     action.rel = 'noopener noreferrer';
     action.innerHTML = '구매하기 <span aria-hidden="true">↗</span>';
-    content.append(meta, title, tagline, action);
+    actions.append(cartButton, action);
+    content.append(meta, title, tagline, actions);
 
     container.replaceChildren(media, content);
     observeNewReveal(media);
