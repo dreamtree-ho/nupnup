@@ -4,7 +4,12 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="noopnoop — 예쁜 순간으로 끝나지 않는, 기분 좋은 밤을 위한 홈웨어.">
-  <meta name="theme-color" content="#f4efe4">
+  <meta name="theme-color" content="#FFFFFF">
+  <meta property="og:title" content="noopnoop — 기분 좋은 밤을 위한 홈웨어">
+  <meta property="og:description" content="예쁜 순간으로 끝나지 않는, 기분 좋은 밤을 만듭니다.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://nupnup.vercel.app/">
+  <meta property="og:image" content="https://nupnup.vercel.app/assets/noopnoop-03.jpg">
   <title>noopnoop — 기분 좋은 밤을 위한 홈웨어</title>
   <link rel="preconnect" href="https://cdn.jsdelivr.net">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css">
@@ -12,140 +17,102 @@
 </head>
 <body>
   <a class="skip-link" href="#main">본문으로 바로가기</a>
-  <header class="site-header" id="top">
-    <a class="brand" href="#home" aria-label="noopnoop 홈">noopnoop<span class="brand-dot">.</span></a>
+  <header class="site-header">
+    <a class="brand" href="#home" aria-label="noopnoop 홈">noopnoop</a>
     <button class="menu-button" type="button" aria-expanded="false" aria-controls="site-nav">
-      <span></span><span></span><span></span><span class="sr-only">메뉴 열기</span>
+      <span></span><span></span><span class="sr-only">메뉴 열기</span>
     </button>
     <nav class="site-nav" id="site-nav" aria-label="주요 메뉴">
-      <a href="#home">홈</a>
-      <a href="#about">내 소개</a>
-      <a href="#products">제품</a>
-      <a href="#story">이야기</a>
-      <a href="#contact">연락하기</a>
+      <a href="#about">내 소개</a><a href="#products">제품</a><a href="#story">이야기</a><a href="#contact">연락하기</a>
     </nav>
   </header>
 
   <main id="main">
     <section class="hero" id="home" aria-labelledby="hero-title">
-      <div class="hero-copy reveal">
-        <p class="eyebrow">HOMEWEAR FOR EVERY GOOD NIGHT</p>
-        <h1 id="hero-title">예쁜 순간으로<br>끝나지 않는,<br><em>기분 좋은 밤</em></h1>
-        <p class="hero-description">noopnoop은 하루의 끝이 조금 더 가볍고 다정해지도록, 오래 입고 싶은 홈웨어를 만듭니다.</p>
-        <a class="text-link" href="#featured">첫 번째 밤 만나기 <span aria-hidden="true">↘</span></a>
+      <img class="hero-image" src="assets/noopnoop-03.jpg" alt="블루 스트라이프 파자마를 함께 입은 두 사람이 햇살 드는 주방에 서 있는 모습">
+      <div class="hero-scrim"></div>
+      <div class="hero-content reveal">
+        <p class="eyebrow eyebrow--light">HOMEWEAR FOR GOOD NIGHTS</p>
+        <h1 id="hero-title">예쁜 순간으로<br>끝나지 않는,<br>기분 좋은 밤.</h1>
+        <a class="hero-link" href="#featured">첫 번째 컬렉션 보기 <span aria-hidden="true">↘</span></a>
       </div>
-      <figure class="hero-visual reveal">
-        <img src="assets/noopnoop-03.jpg" alt="블루 스트라이프 파자마를 함께 입은 두 사람이 햇살 드는 주방에 서 있는 모습">
-        <figcaption><span>01</span> 느긋한 아침, 오래 머물고 싶은 옷</figcaption>
-      </figure>
-      <p class="hero-side-note" aria-hidden="true">soft hours · slow mornings · good nights</p>
+      <p class="hero-index">NOOPNOOP — 2026</p>
     </section>
 
-    <section class="marquee" aria-label="브랜드 메시지">
-      <div>GOOD NIGHT, BETTER MORNING <span>✶</span> MADE FOR TWO, FIT FOR YOU <span>✶</span> NOOPNOOP HOMEWEAR <span>✶</span></div>
+    <div class="message-bar" aria-label="브랜드 핵심 가치">
+      <span>SOFT HOURS</span><i></i><span>UNI-FIT</span><i></i><span>GOOD NIGHT</span><i></i><span>BETTER MORNING</span>
+    </div>
+
+    <section class="statement" id="about" aria-labelledby="statement-title">
+      <div class="section-meta reveal"><span>01</span><span>ABOUT NOOPNOOP</span></div>
+      <div class="statement-inner reveal">
+        <h2 id="statement-title">하루의 끝이<br>조금 더 나다워지도록.</h2>
+        <p>noopnoop은 잠들기 전의 대화와<br>아무 계획 없는 주말 아침처럼,<br>평범해서 더 좋은 순간을 입습니다.</p>
+      </div>
     </section>
 
     <section class="featured" id="featured" aria-labelledby="featured-title">
-      <div class="featured-photo reveal">
-        <img src="assets/noopnoop-01.jpg" alt="블루와 버건디 스트라이프 파자마를 입은 모델">
-        <span class="photo-label">UNI-FIT / 01</span>
-      </div>
-      <div class="featured-copy reveal">
-        <p class="eyebrow">THE FIRST COLLECTION</p>
-        <h2 id="featured-title">Uni-fit<br><em>블루메리</em> 파자마</h2>
-        <p>선명한 블루와 차분한 버건디 스트라이프가 만난 noopnoop의 시그니처 파자마. 성별의 경계 없이 각자의 몸과 취향에 자연스럽게 어울리는 여유로운 핏입니다.</p>
+      <div class="featured-media reveal"><img src="assets/noopnoop-01.jpg" alt="블루와 버건디 스트라이프 파자마를 입은 모델"></div>
+      <div class="featured-content reveal">
+        <div class="section-meta"><span>02</span><span>THE FIRST COLLECTION</span></div>
+        <h2 id="featured-title">Uni-fit<br>블루메리 파자마</h2>
+        <p>선명한 블루와 차분한 버건디.<br>성별의 경계 없이 누구에게나<br>자연스럽게 어울리는 여유로운 핏.</p>
         <dl class="product-facts">
-          <div><dt>Fabric</dt><dd>부드러운 코튼 블렌드</dd></div>
-          <div><dt>Fit</dt><dd>Relaxed uni-fit</dd></div>
-          <div><dt>Color</dt><dd>Blue · Cream · Burgundy</dd></div>
+          <div><dt>FABRIC</dt><dd>Soft cotton blend</dd></div>
+          <div><dt>FIT</dt><dd>Relaxed uni-fit</dd></div>
+          <div><dt>COLOR</dt><dd>Blue · Cream · Burgundy</dd></div>
         </dl>
-        <a class="pill-button" href="#products">컬렉션 둘러보기</a>
+        <a class="action-link" href="#contact">제품 문의하기 <span>↗</span></a>
       </div>
-    </section>
-
-    <section class="about" id="about" aria-labelledby="about-title">
-      <div class="section-number">02 / ABOUT</div>
-      <div class="about-title-wrap reveal">
-        <p class="eyebrow">ABOUT NOOPNOOP</p>
-        <h2 id="about-title">집에서 보내는 시간이<br><em>나답게 흐르도록.</em></h2>
-      </div>
-      <div class="about-body reveal">
-        <p class="lead">“예쁜 옷은 많지만, 밤새 편안한 옷은 왜 드물까?”</p>
-        <p>noopnoop은 이 작은 질문에서 시작했습니다. 잠들기 전의 대화, 늦은 밤의 간식, 아무 계획 없는 주말 아침처럼 평범하지만 소중한 장면을 생각하며 옷을 만듭니다.</p>
-        <p>자연스러운 실루엣과 기분 좋은 촉감, 오래 보아도 질리지 않는 색을 고릅니다. 지금 이 소개는 브랜드와 함께 자라날 임시 이야기입니다.</p>
-      </div>
-      <figure class="about-image reveal">
-        <img src="assets/noopnoop-08.jpg" alt="우드 톤 거실에서 파자마를 입고 편안한 시간을 보내는 두 사람">
-      </figure>
     </section>
 
     <section class="products" id="products" aria-labelledby="products-title">
-      <div class="section-heading reveal">
-        <div>
-          <p class="eyebrow">OUR NIGHTWEAR</p>
-          <h2 id="products-title">오늘의 <em>기분</em>을 고르세요.</h2>
-        </div>
-        <p>각 제품의 이름과 정보는 준비 중인 임시 내용입니다.<br>곧 더 자세한 이야기를 전할게요.</p>
+      <div class="products-heading reveal">
+        <div class="section-meta"><span>03</span><span>OUR NIGHTWEAR</span></div>
+        <h2 id="products-title">각자의 밤을 위한<br>세 가지 장면.</h2>
+        <p>제품 이름과 상세 정보는 준비 중입니다.<br>곧 더 자세한 이야기를 전할게요.</p>
       </div>
       <div class="product-grid">
-        <article class="product-card product-card--wide reveal">
-          <a href="#contact" aria-label="블루메리 파자마 문의하기">
-            <div class="product-image"><img src="assets/noopnoop-02.jpg" alt="블루 스트라이프 파자마를 입고 함께 아침을 보내는 두 사람"></div>
-            <div class="product-info"><h3>Uni-fit 블루메리 파자마</h3><p>Blue Merry Stripe</p><span>문의하기 ↗</span></div>
-          </a>
-        </article>
-        <article class="product-card reveal">
-          <a href="#contact" aria-label="로지 선셋 파자마 문의하기">
-            <div class="product-image"><img src="assets/noopnoop-10.jpg" alt="레드와 핑크 스트라이프 파자마를 입은 두 사람"></div>
-            <div class="product-info"><h3>로지 선셋 파자마</h3><p>Rosy Sunset Stripe</p><span>준비 중</span></div>
-          </a>
-        </article>
-        <article class="product-card reveal">
-          <a href="#contact" aria-label="리틀 가든 파자마 문의하기">
-            <div class="product-image"><img src="assets/noopnoop-07.jpg" alt="잔잔한 플라워 패턴 파자마를 입은 모델"></div>
-            <div class="product-info"><h3>리틀 가든 파자마</h3><p>Little Garden</p><span>준비 중</span></div>
-          </a>
-        </article>
+        <article class="product-card reveal"><a href="#contact" aria-label="블루메리 파자마 문의하기"><div class="product-image"><img src="assets/noopnoop-02.jpg" alt="블루 스트라이프 파자마를 입고 함께 아침을 보내는 두 사람"></div><div class="product-info"><div><span>01 / SIGNATURE</span><h3>Uni-fit 블루메리</h3></div><b>↗</b></div></a></article>
+        <article class="product-card reveal"><a href="#contact" aria-label="로지 선셋 파자마 문의하기"><div class="product-image"><img src="assets/noopnoop-10.jpg" alt="레드와 핑크 스트라이프 파자마를 입은 두 사람"></div><div class="product-info"><div><span>02 / COMING SOON</span><h3>로지 선셋</h3></div><b>↗</b></div></a></article>
+        <article class="product-card reveal"><a href="#contact" aria-label="리틀 가든 파자마 문의하기"><div class="product-image"><img src="assets/noopnoop-07.jpg" alt="잔잔한 플라워 패턴 파자마를 입은 모델"></div><div class="product-info"><div><span>03 / COMING SOON</span><h3>리틀 가든</h3></div><b>↗</b></div></a></article>
       </div>
     </section>
 
-    <section class="moment" aria-label="noopnoop 브랜드 순간">
+    <section class="brand-scene" aria-labelledby="scene-title">
       <img src="assets/noopnoop-09.jpg" alt="레드 스트라이프 파자마를 입고 창가에 선 두 사람">
-      <div class="moment-copy reveal"><p>나란히 입고,<br>각자의 방식으로.</p><span>One fit, every you.</span></div>
+      <div class="scene-scrim"></div>
+      <div class="scene-content reveal">
+        <p class="eyebrow eyebrow--light">ONE FIT, EVERY YOU</p>
+        <h2 id="scene-title">나란히 입고,<br>각자의 방식으로.</h2>
+        <p>같은 옷을 입어도 같은 사람이 되지 않도록.<br>noopnoop은 각자의 편안함을 존중합니다.</p>
+      </div>
     </section>
 
     <section class="story" id="story" aria-labelledby="story-title">
-      <div class="story-heading reveal">
-        <p class="eyebrow">NOOPNOOP JOURNAL</p>
-        <h2 id="story-title">밤과 아침 사이의<br><em>작은 이야기</em></h2>
+      <div class="story-copy reveal">
+        <div class="section-meta"><span>04</span><span>JOURNAL</span></div>
+        <h2 id="story-title">밤과 아침 사이의<br>작은 이야기.</h2>
+        <p>새로운 컬렉션의 기록과<br>우리가 사랑하는 느린 일상을<br>네이버 블로그에서 만나보세요.</p>
+        <a class="action-link" href="https://blog.naver.com/wotkdwogh1" target="_blank" rel="noopener noreferrer">블로그 읽기 <span>↗</span></a>
       </div>
-      <a class="story-card reveal" href="https://blog.naver.com/wotkdwogh1" target="_blank" rel="noopener noreferrer">
-        <img src="assets/noopnoop-05.jpg" alt="플라워 파자마를 입고 침대에서 책을 읽는 모델">
-        <div>
-          <p class="story-date">JOURNAL · 2026</p>
-          <h3>noopnoop이 좋아하는 밤의 장면들</h3>
-          <p>새로운 컬렉션의 기록과 우리가 사랑하는 느린 일상을 네이버 블로그에서 만나보세요.</p>
-          <span>블로그 읽으러 가기 ↗</span>
-        </div>
-      </a>
+      <a class="story-image reveal" href="https://blog.naver.com/wotkdwogh1" target="_blank" rel="noopener noreferrer" aria-label="noopnoop 네이버 블로그 열기"><img src="assets/noopnoop-05.jpg" alt="플라워 파자마를 입고 침대에서 책을 읽는 모델"></a>
     </section>
 
     <section class="contact" id="contact" aria-labelledby="contact-title">
-      <p class="eyebrow">SAY HELLO</p>
-      <h2 id="contact-title" class="reveal">함께 만들고 싶은<br>밤이 있나요?</h2>
-      <p class="contact-lead reveal">제품, 입점, 협업에 관한 이야기를 기다립니다.<br>아래 연락처는 추후 실제 정보로 바꿔주세요.</p>
-      <a class="contact-email reveal" href="mailto:hello@noopnoop.kr">hello@noopnoop.kr <span>↗</span></a>
-      <div class="contact-links">
-        <a href="https://blog.naver.com/wotkdwogh1" target="_blank" rel="noopener noreferrer">Naver Blog ↗</a>
-        <a href="#top">맨 위로 ↑</a>
+      <div class="section-meta section-meta--light reveal"><span>05</span><span>SAY HELLO</span></div>
+      <div class="contact-inner reveal">
+        <h2 id="contact-title">함께 만들고 싶은<br>밤이 있나요?</h2>
+        <p>제품, 입점, 협업에 관한<br>이야기를 기다립니다.</p>
+        <a href="mailto:hello@noopnoop.kr">hello@noopnoop.kr <span>↗</span></a>
       </div>
     </section>
   </main>
 
   <footer class="site-footer">
-    <a class="brand brand--footer" href="#top">noopnoop<span class="brand-dot">.</span></a>
-    <p>Good night, better morning.</p>
-    <p>© <span id="year">2026</span> noopnoop</p>
+    <a class="footer-brand" href="#home">noopnoop</a>
+    <div class="footer-nav"><a href="#about">내 소개</a><a href="#products">제품</a><a href="#story">이야기</a><a href="#contact">연락하기</a></div>
+    <div class="footer-bottom"><span>© <span id="year">2026</span> NOOPNOOP</span><a href="https://blog.naver.com/wotkdwogh1" target="_blank" rel="noopener noreferrer">NAVER BLOG ↗</a></div>
   </footer>
   <script src="script.js"></script>
 </body>
