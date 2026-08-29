@@ -4,25 +4,25 @@
   "products": [
     {
       "name": "Uni-fit 블루메리 파자마",
-      "price": null,
+      "price": 79900,
       "image": "assets/product-09.jpg",
       "url": null
     },
     {
       "name": "로지 스트라이프 파자마",
-      "price": null,
+      "price": 69800,
       "image": "assets/product-10.jpg",
       "url": null
     },
     {
       "name": "리틀 가든 로브 세트",
-      "price": null,
+      "price": 73600,
       "image": "assets/product-04.jpg",
       "url": null
     },
     {
       "name": "모닝 블룸 파자마",
-      "price": null,
+      "price": 79900,
       "image": "assets/product-05.jpg",
       "url": null
     }
