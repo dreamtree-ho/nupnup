@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="noop noop의 홈웨어 제품을 한곳에서 만나보세요.">
+  <meta name="theme-color" content="#FFFFFF">
+  <meta property="og:title" content="제품 — noop noop">
+  <meta property="og:description" content="편안한 밤과 산뜻한 아침을 위한 noop noop 홈웨어.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://nupnup.vercel.app/products.html">
+  <meta property="og:image" content="https://nupnup.vercel.app/assets/noopnoop-01.jpg">
+  <title>제품 — noop noop</title>
+  <link rel="preconnect" href="https://cdn.jsdelivr.net">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="products-page">
+  <a class="skip-link" href="#main">본문으로 바로가기</a>
+  <header class="site-header">
+    <a class="brand" href="index.html" aria-label="noop noop 홈">noop noop</a>
+    <button class="menu-button" type="button" aria-expanded="false" aria-controls="site-nav"><span></span><span></span><span class="sr-only">메뉴 열기</span></button>
+    <nav class="site-nav" id="site-nav" aria-label="주요 메뉴">
+      <a href="about.html">내 소개</a><a href="products.html" aria-current="page">제품</a><a href="index.html#story">이야기</a><a href="index.html#contact">연락하기</a>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section class="products-hero" aria-labelledby="products-page-title">
+      <div class="section-meta reveal"><span>01</span><span>ALL PRODUCTS</span></div>
+      <div class="products-hero-copy reveal">
+        <h1 id="products-page-title">오늘의 기분을 입고,<br>내일의 아침까지.</h1>
+        <p>눈에 먼저 닿는 화사함과<br>오래 입을수록 느껴지는 편안함.<br>지금 만날 수 있는 홈웨어입니다.</p>
+      </div>
+    </section>
+
+    <section class="product-catalog" aria-labelledby="catalog-title">
+      <div class="catalog-heading reveal">
+        <p class="eyebrow">SHOP THE COLLECTION</p>
+        <h2 id="catalog-title">모든 제품.</h2>
+      </div>
+      <div class="product-grid product-grid--catalog" data-product-grid aria-live="polite">
+        <p class="products-status">제품을 불러오는 중입니다.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <a class="footer-brand" href="index.html">noop noop</a>
+    <div class="footer-nav"><a href="about.html">내 소개</a><a href="products.html">제품</a><a href="index.html#story">이야기</a><a href="index.html#contact">연락하기</a></div>
+    <div class="footer-bottom"><span>© <span id="year">2026</span> NOOP NOOP</span><a href="https://blog.naver.com/wotkdwogh1" target="_blank" rel="noopener noreferrer">NAVER BLOG ↗</a></div>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>

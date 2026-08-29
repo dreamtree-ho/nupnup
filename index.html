@@ -23,7 +23,7 @@
       <span></span><span></span><span class="sr-only">메뉴 열기</span>
     </button>
     <nav class="site-nav" id="site-nav" aria-label="주요 메뉴">
-      <a href="about.html">내 소개</a><a href="#products">제품</a><a href="#story">이야기</a><a href="#contact">연락하기</a>
+      <a href="about.html">내 소개</a><a href="products.html">제품</a><a href="#story">이야기</a><a href="#contact">연락하기</a>
     </nav>
   </header>
 
@@ -69,14 +69,13 @@
     <section class="products" id="products" aria-labelledby="products-title">
       <div class="products-heading reveal">
         <div class="section-meta"><span>03</span><span>OUR NIGHTWEAR</span></div>
-        <h2 id="products-title">각자의 밤을 위한<br>세 가지 장면.</h2>
-        <p>제품 이름과 상세 정보는 준비 중입니다.<br>곧 더 자세한 이야기를 전할게요.</p>
+        <h2 id="products-title">지금 만날 수 있는<br>세 가지 홈웨어.</h2>
+        <p>편안한 밤과 산뜻한 아침을 위한<br>대표 제품을 먼저 만나보세요.</p>
       </div>
-      <div class="product-grid">
-        <article class="product-card reveal"><a href="#contact" aria-label="블루메리 파자마 문의하기"><div class="product-image"><img src="assets/noopnoop-02.jpg" alt="블루 스트라이프 파자마를 입고 함께 아침을 보내는 두 사람"></div><div class="product-info"><div><span>01 / SIGNATURE</span><h3>Uni-fit 블루메리</h3></div><b>↗</b></div></a></article>
-        <article class="product-card reveal"><a href="#contact" aria-label="로지 선셋 파자마 문의하기"><div class="product-image"><img src="assets/noopnoop-10.jpg" alt="레드와 핑크 스트라이프 파자마를 입은 두 사람"></div><div class="product-info"><div><span>02 / COMING SOON</span><h3>로지 선셋</h3></div><b>↗</b></div></a></article>
-        <article class="product-card reveal"><a href="#contact" aria-label="리틀 가든 파자마 문의하기"><div class="product-image"><img src="assets/noopnoop-07.jpg" alt="잔잔한 플라워 패턴 파자마를 입은 모델"></div><div class="product-info"><div><span>03 / COMING SOON</span><h3>리틀 가든</h3></div><b>↗</b></div></a></article>
+      <div class="product-grid" data-product-grid data-limit="3" aria-live="polite">
+        <p class="products-status">제품을 불러오는 중입니다.</p>
       </div>
+      <div class="products-more reveal"><a class="action-link" href="products.html">전체 제품 보기 <span>↗</span></a></div>
     </section>
 
     <section class="brand-scene" aria-labelledby="scene-title">
@@ -111,7 +110,7 @@
 
   <footer class="site-footer">
     <a class="footer-brand" href="#home">noop noop</a>
-    <div class="footer-nav"><a href="about.html">내 소개</a><a href="#products">제품</a><a href="#story">이야기</a><a href="#contact">연락하기</a></div>
+    <div class="footer-nav"><a href="about.html">내 소개</a><a href="products.html">제품</a><a href="#story">이야기</a><a href="#contact">연락하기</a></div>
     <div class="footer-bottom"><span>© <span id="year">2026</span> NOOP NOOP</span><a href="https://blog.naver.com/wotkdwogh1" target="_blank" rel="noopener noreferrer">NAVER BLOG ↗</a></div>
   </footer>
   <script src="script.js"></script>
