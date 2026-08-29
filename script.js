@@ -45,8 +45,6 @@ const observeNewReveal = (item) => {
   else revealObserver.observe(item);
 };
 
-const priceFormatter = new Intl.NumberFormat('ko-KR');
-
 const createProductCard = (product, index) => {
   const card = document.createElement('article');
   card.className = 'product-card reveal';
@@ -75,11 +73,12 @@ const createProductCard = (product, index) => {
   copy.className = 'product-copy';
   const name = document.createElement('h3');
   name.textContent = product.name;
+  const tagline = document.createElement('p');
+  tagline.className = 'product-tagline';
+  tagline.textContent = product.tagline || '';
   const price = document.createElement('p');
   price.className = 'product-price';
-  price.textContent = typeof product.price === 'number'
-    ? priceFormatter.format(product.price) + '원'
-    : '가격 준비 중';
+  price.textContent = '스토어에서 가격 보기';
 
   const actionLink = document.createElement('a');
   actionLink.className = 'buy-button';
@@ -91,7 +90,7 @@ const createProductCard = (product, index) => {
   }
   actionLink.innerHTML = (hasPurchaseUrl ? '구매하기' : '제품 문의') + ' <span aria-hidden="true">↗</span>';
 
-  copy.append(name, price);
+  copy.append(name, tagline, price);
   info.append(copy, actionLink);
   card.append(imageLink, info);
   return card;
@@ -105,7 +104,11 @@ const renderProducts = async (grid) => {
     if (!Array.isArray(data.products)) throw new Error('제품 데이터 형식이 올바르지 않습니다.');
 
     const limit = Number.parseInt(grid.dataset.limit || '', 10);
-    const products = Number.isFinite(limit) ? data.products.slice(0, limit) : data.products;
+    let products = data.products.slice();
+    if (grid.dataset.excludeFeature === 'true') {
+      products = products.filter((product) => product.name !== 'Uni-fit 블루메리 파자마');
+    }
+    if (Number.isFinite(limit)) products = products.slice(0, limit);
     grid.replaceChildren();
     products.forEach((product, index) => {
       const card = createProductCard(product, index);
@@ -124,6 +127,61 @@ const renderProducts = async (grid) => {
     status.className = 'products-status';
     status.textContent = '제품을 불러오지 못했습니다. 잠시 후 다시 시도해 주세요.';
     grid.replaceChildren(status);
+    console.error(error);
+  }
+};
+
+const renderFeaturedProduct = async (container) => {
+  try {
+    const response = await fetch('products.json', { cache: 'no-cache' });
+    if (!response.ok) throw new Error('대표 제품 데이터를 불러오지 못했습니다: ' + response.status);
+    const data = await response.json();
+    const product = Array.isArray(data.products)
+      ? data.products.find((item) => item.name === 'Uni-fit 블루메리 파자마')
+      : null;
+    if (!product) throw new Error('대표 제품을 찾을 수 없습니다.');
+
+    const destination = product.url || 'index.html#contact';
+    const media = document.createElement('div');
+    media.className = 'featured-media reveal';
+    const imageLink = document.createElement('a');
+    imageLink.href = destination;
+    imageLink.target = '_blank';
+    imageLink.rel = 'noopener noreferrer';
+    imageLink.setAttribute('aria-label', product.name + ' 스토어에서 보기');
+    const image = document.createElement('img');
+    image.src = product.image;
+    image.alt = product.name;
+    image.decoding = 'async';
+    imageLink.append(image);
+    media.append(imageLink);
+
+    const content = document.createElement('div');
+    content.className = 'featured-content reveal';
+    const meta = document.createElement('div');
+    meta.className = 'section-meta';
+    meta.innerHTML = '<span>01</span><span>CURATED PICK</span>';
+    const title = document.createElement('h2');
+    title.textContent = product.name;
+    const tagline = document.createElement('p');
+    tagline.className = 'featured-tagline';
+    tagline.textContent = product.tagline || '';
+    const action = document.createElement('a');
+    action.className = 'action-link';
+    action.href = destination;
+    action.target = '_blank';
+    action.rel = 'noopener noreferrer';
+    action.innerHTML = '구매하기 <span aria-hidden="true">↗</span>';
+    content.append(meta, title, tagline, action);
+
+    container.replaceChildren(media, content);
+    observeNewReveal(media);
+    observeNewReveal(content);
+  } catch (error) {
+    const status = document.createElement('p');
+    status.className = 'products-status';
+    status.textContent = '대표 제품을 불러오지 못했습니다. 잠시 후 다시 시도해 주세요.';
+    container.replaceChildren(status);
     console.error(error);
   }
 };
@@ -189,4 +247,5 @@ const renderHomeStories = async (grid) => {
 };
 
 document.querySelectorAll('[data-product-grid]').forEach(renderProducts);
+document.querySelectorAll('[data-product-feature]').forEach(renderFeaturedProduct);
 document.querySelectorAll('[data-story-grid]').forEach(renderHomeStories);

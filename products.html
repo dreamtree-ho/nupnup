@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="noop noop의 홈웨어 제품을 한곳에서 만나보세요.">
   <meta name="theme-color" content="#FFFFFF">
+  <link rel="canonical" href="https://nupnup.vercel.app/products.html">
   <meta property="og:title" content="제품 — noop noop">
   <meta property="og:description" content="편안한 밤과 산뜻한 아침을 위한 noop noop 홈웨어.">
   <meta property="og:type" content="website">
@@ -15,6 +16,7 @@
   <link rel="preconnect" href="https://cdn.jsdelivr.net">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css">
   <link rel="stylesheet" href="styles.css?v=20260829-4">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"ItemList","name":"noop noop 홈웨어","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Product","name":"Uni-fit 블루메리 파자마","image":"https://nupnup.vercel.app/assets/product-09.jpg","url":"https://noopnoop.co.kr/"}},{"@type":"ListItem","position":2,"item":{"@type":"Product","name":"로지 스트라이프 파자마","image":"https://nupnup.vercel.app/assets/product-10.jpg","url":"https://noopnoop.co.kr/"}},{"@type":"ListItem","position":3,"item":{"@type":"Product","name":"리틀 가든 로브 세트","image":"https://nupnup.vercel.app/assets/product-04.jpg","url":"https://noopnoop.co.kr/"}},{"@type":"ListItem","position":4,"item":{"@type":"Product","name":"모닝 블룸 파자마","image":"https://nupnup.vercel.app/assets/product-05.jpg","url":"https://noopnoop.co.kr/"}}]}</script>
 </head>
 <body class="products-page">
   <a class="skip-link" href="#main">본문으로 바로가기</a>
@@ -37,12 +39,16 @@
 
     <section class="product-catalog" aria-labelledby="catalog-title">
       <div class="catalog-heading reveal">
-        <p class="eyebrow">SHOP THE COLLECTION</p>
-        <h2 id="catalog-title">모든 제품.</h2>
+        <p class="eyebrow">CURATED FOR YOUR NIGHT</p>
+        <h2 id="catalog-title">오늘의 큐레이션.</h2>
       </div>
-      <div class="product-grid product-grid--catalog" data-product-grid aria-live="polite">
+      <div class="product-curation-feature" data-product-feature aria-live="polite">
+        <p class="products-status">대표 제품을 불러오는 중입니다.</p>
+      </div>
+      <div class="product-grid product-grid--catalog" data-product-grid data-limit="5" data-exclude-feature="true" aria-live="polite">
         <p class="products-status">제품을 불러오는 중입니다.</p>
       </div>
+      <div class="products-more reveal"><a class="action-link" href="https://noopnoop.co.kr/?NaPm=ct%3Dmtdwlce4%7Cci%3Dcheckout%7Ctr%3Dds%7Ctrx%3Dnull%7Chk%3Df29147c17faf82791b078ea0f67a0a4a9c99fc51" target="_blank" rel="noopener noreferrer">전체 제품 보기 <span>↗</span></a></div>
     </section>
   </main>
 

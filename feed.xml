@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>noop noop 이야기</title>
+    <link>https://nupnup.vercel.app/story/</link>
+    <description>기분 좋은 밤을 만드는 noop noop의 홈웨어와 브랜드 이야기</description>
+    <language>ko-KR</language>
+    <lastBuildDate>Sat, 29 Aug 2026 00:00:00 +0900</lastBuildDate>
+    <item>
+      <title>12만 원의 로브가 noop noop의 시작이 된 이유는?</title>
+      <link>https://nupnup.vercel.app/story/why-noopnoop-started.html</link>
+      <description>가격표 앞에서 고민하던 아내를 본 순간, 원단을 다룬 14년의 경험으로 직접 홈웨어를 만들기로 한 이야기입니다.</description>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://nupnup.vercel.app/story/why-noopnoop-started.html</guid>
+    </item>
+    <item>
+      <title>noop noop이 홈웨어에서 지키려는 기준은 무엇인가요?</title>
+      <link>https://nupnup.vercel.app/story/what-noopnoop-values.html</link>
+      <description>예쁜 순간을 넘어 실제로 입는 시간의 만족까지 이어지게 하려는 noop noop의 제품 기준을 소개합니다.</description>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://nupnup.vercel.app/story/what-noopnoop-values.html</guid>
+    </item>
+    <item>
+      <title>편안하면서 예쁜 홈웨어는 어떻게 골라야 할까요?</title>
+      <link>https://nupnup.vercel.app/story/how-to-choose-homewear.html</link>
+      <description>핏과 원단, 가격을 차례로 확인해 보기 좋은 순간이 실제 착용의 만족으로 이어지는 홈웨어를 고르는 기준입니다.</description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://nupnup.vercel.app/story/how-to-choose-homewear.html</guid>
+    </item>
+  </channel>
+</rss>

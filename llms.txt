@@ -1,0 +1,20 @@
+# noop noop
+
+편안함과 디자인을 함께 생각하며, 기분 좋은 밤과 다음 날의 감정까지 이어 주는 홈웨어 브랜드입니다.
+
+## 파는 것
+
+파자마와 로브 등 일상에서 편안하게 입는 홈웨어를 소개합니다.
+
+## 페이지 안내
+
+- [홈](https://nupnup.vercel.app/): 브랜드와 대표 제품 안내
+- [내 소개](https://nupnup.vercel.app/about.html): 브랜드를 시작한 계기와 제품 기준
+- [제품](https://nupnup.vercel.app/products.html): 현재 소개 중인 홈웨어와 가격
+- [이야기](https://nupnup.vercel.app/story/): noop noop의 브랜드와 홈웨어 기록
+
+## 이야기(블로그)
+
+- [12만 원의 로브가 noop noop의 시작이 된 이유는?](https://nupnup.vercel.app/story/why-noopnoop-started.html): 가격표 앞의 장면과 14년의 원단 경험에서 시작된 브랜드 이야기
+- [noop noop이 홈웨어에서 지키려는 기준은 무엇인가요?](https://nupnup.vercel.app/story/what-noopnoop-values.html): 편안함과 디자인, 가격을 바라보는 제품 기준
+- [편안하면서 예쁜 홈웨어는 어떻게 골라야 할까요?](https://nupnup.vercel.app/story/how-to-choose-homewear.html): 핏과 원단, 가격을 차례로 확인하는 홈웨어 선택 기준
