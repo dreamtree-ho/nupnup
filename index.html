@@ -11,19 +11,20 @@
   <meta property="og:url" content="https://nupnup.vercel.app/">
   <meta property="og:image" content="https://nupnup.vercel.app/assets/noopnoop-03.jpg">
   <title>noop noop — 기분 좋은 밤을 위한 홈웨어</title>
+  <link rel="icon" href="assets/noopnoop-logo.png">
   <link rel="preconnect" href="https://cdn.jsdelivr.net">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css">
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="styles.css?v=20260829-4">
 </head>
-<body>
+<body class="home-page">
   <a class="skip-link" href="#main">본문으로 바로가기</a>
   <header class="site-header">
-    <a class="brand" href="#home" aria-label="noop noop 홈">noop noop</a>
+    <a class="brand" href="#home" aria-label="noop noop 홈"><img class="brand-logo" src="assets/noopnoop-logo.png" alt="noop noop"></a>
     <button class="menu-button" type="button" aria-expanded="false" aria-controls="site-nav">
       <span></span><span></span><span class="sr-only">메뉴 열기</span>
     </button>
     <nav class="site-nav" id="site-nav" aria-label="주요 메뉴">
-      <a href="about.html">내 소개</a><a href="products.html">제품</a><a href="#story">이야기</a><a href="#contact">연락하기</a>
+      <a href="about.html">내 소개</a><a href="products.html">제품</a><a href="story/">이야기</a><a href="#contact">연락하기</a>
     </nav>
   </header>
 
@@ -88,14 +89,16 @@
       </div>
     </section>
 
-    <section class="story" id="story" aria-labelledby="story-title">
-      <div class="story-copy reveal">
+    <section class="home-journal" id="story" aria-labelledby="story-title">
+      <div class="journal-heading reveal">
         <div class="section-meta"><span>04</span><span>JOURNAL</span></div>
         <h2 id="story-title">밤과 아침 사이의<br>작은 이야기.</h2>
-        <p>새로운 컬렉션의 기록과<br>우리가 사랑하는 느린 일상을<br>네이버 블로그에서 만나보세요.</p>
-        <a class="action-link" href="https://blog.naver.com/wotkdwogh1" target="_blank" rel="noopener noreferrer">블로그 읽기 <span>↗</span></a>
+        <p>제품 뒤의 사람과 만드는 과정,<br>우리가 사랑하는 느린 일상을<br>천천히 기록합니다.</p>
       </div>
-      <a class="story-image reveal" href="https://blog.naver.com/wotkdwogh1" target="_blank" rel="noopener noreferrer" aria-label="noop noop 네이버 블로그 열기"><img src="assets/noopnoop-05.jpg" alt="플라워 파자마를 입고 침대에서 책을 읽는 모델"></a>
+      <div class="journal-grid" data-story-grid aria-live="polite">
+        <p class="stories-status">이야기를 불러오는 중입니다.</p>
+      </div>
+      <div class="journal-more reveal"><a class="action-link" href="story/">이야기 더 보기 <span>↗</span></a></div>
     </section>
 
     <section class="contact" id="contact" aria-labelledby="contact-title">
@@ -109,10 +112,10 @@
   </main>
 
   <footer class="site-footer">
-    <a class="footer-brand" href="#home">noop noop</a>
-    <div class="footer-nav"><a href="about.html">내 소개</a><a href="products.html">제품</a><a href="#story">이야기</a><a href="#contact">연락하기</a></div>
+    <a class="footer-brand" href="#home"><img class="brand-logo" src="assets/noopnoop-logo.png" alt="noop noop"></a>
+    <div class="footer-nav"><a href="about.html">내 소개</a><a href="products.html">제품</a><a href="story/">이야기</a><a href="#contact">연락하기</a></div>
     <div class="footer-bottom"><span>© <span id="year">2026</span> NOOP NOOP</span><a href="https://blog.naver.com/wotkdwogh1" target="_blank" rel="noopener noreferrer">NAVER BLOG ↗</a></div>
   </footer>
-  <script src="script.js"></script>
+  <script src="script.js?v=20260829-3"></script>
 </body>
 </html>
