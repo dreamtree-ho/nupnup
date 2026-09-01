@@ -24,6 +24,7 @@
 
 ## 이야기(블로그)
 
+- [30대 여성에게 선물할 잠옷은 어떻게 고르면 좋을까요?](https://nupnup.vercel.app/story/pajama-gift-for-women-in-their-30s.html): 취향과 생활 장면, 핏과 제품 정보를 확인하는 잠옷 선물 선택법
 - [계절이 바뀔 때 잠옷은 어떻게 보관해야 하나요?](https://nupnup.vercel.app/story/how-to-store-pajamas-seasonally.html): 세탁표시부터 건조, 접기, 수납 장소까지 정리한 계절 보관 순서
 - [팝업에서 잘 팔린 잠옷이 온라인에서는 왜 어려웠을까요?](https://nupnup.vercel.app/story/why-popup-success-did-not-go-online.html): 팝업의 좋은 반응을 온라인 재구매로 연결하지 못했던 첫 B2C 경험
 - [noop noop 홈웨어는 다른 잠옷과 무엇이 다른가요?](https://nupnup.vercel.app/story/what-makes-noopnoop-different.html): 14년의 원단 경험과 편안함·디자인·가격을 함께 보는 기준
