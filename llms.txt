@@ -24,6 +24,9 @@
 
 ## 이야기(블로그)
 
+- [비싼 잠옷과 합리적인 잠옷은 무엇이 다른가요?](https://nupnup.vercel.app/story/expensive-vs-affordable-pajamas.html): 소재 정보, 핏, 관리법, 제품 구성으로 가격이 납득되는지 판단하는 기준
+- [10만 원 이하 여성 파자마는 원단을 어떻게 보고 골라야 하나요?](https://nupnup.vercel.app/story/pajamas-under-100000-won-fabric.html): 소재 표기, 사진, 핏, 관리법과 실제 제품 가격을 함께 확인하는 파자마 선택 기준
+- [40대 여성 홈웨어 선물은 무엇을 기준으로 골라야 하나요?](https://nupnup.vercel.app/story/homewear-gift-for-women-in-their-40s.html): 생활 장면, 소재 정보, 핏과 가격을 확인하는 홈웨어 선물 기준
 - [30대 여성에게 선물할 잠옷은 어떻게 고르면 좋을까요?](https://nupnup.vercel.app/story/pajama-gift-for-women-in-their-30s.html): 취향과 생활 장면, 핏과 제품 정보를 확인하는 잠옷 선물 선택법
 - [계절이 바뀔 때 잠옷은 어떻게 보관해야 하나요?](https://nupnup.vercel.app/story/how-to-store-pajamas-seasonally.html): 세탁표시부터 건조, 접기, 수납 장소까지 정리한 계절 보관 순서
 - [팝업에서 잘 팔린 잠옷이 온라인에서는 왜 어려웠을까요?](https://nupnup.vercel.app/story/why-popup-success-did-not-go-online.html): 팝업의 좋은 반응을 온라인 재구매로 연결하지 못했던 첫 B2C 경험
