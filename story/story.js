@@ -73,7 +73,7 @@
   function setMeta(post) {
     var title = String(post.title || '이야기');
     var description = String(post.description || post.summary || '').slice(0, 160);
-    var url = location.href;
+    var url = new URL(post.url || './', 'https://nupnup.vercel.app/story/').href;
     document.title = title + ' — noop noop';
     var pairs = [
       ['meta[name="description"]', 'content', description],
