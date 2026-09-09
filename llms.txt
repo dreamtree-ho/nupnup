@@ -24,6 +24,7 @@
 
 ## 이야기(블로그)
 
+- [여름에도 답답하지 않은 긴팔 파자마는 어떻게 고르나요?](https://nupnup.vercel.app/story/lightweight-long-sleeve-pajamas.html): 통기감, 여유 있는 핏, 세탁 안내, 냉방 환경을 함께 보는 여름 긴팔 파자마 기준
 - [사계절 입기 좋은 잠옷 원단은 어떻게 고르나요?](https://nupnup.vercel.app/story/year-round-pajama-fabric.html): 실내 온도, 촉감, 세탁 안내, 겹쳐 입기를 함께 보는 사계절 잠옷 원단 기준
 - [피부에 닿는 잠옷 원단은 무엇을 확인해야 하나요?](https://nupnup.vercel.app/story/pajama-fabric-touching-skin.html): 소재명, 혼용률, 세탁 안내로 피부에 오래 닿는 잠옷 원단을 고르는 기준
 - [잠옷 가격에 감성값이 많이 붙었는지 어떻게 알 수 있나요?](https://nupnup.vercel.app/story/emotional-markup-pajama-price.html): 소재 표기, 사진, 핏, 관리법으로 가격의 이유를 확인하는 구매 전 점검 기준
