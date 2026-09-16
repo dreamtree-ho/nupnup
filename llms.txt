@@ -24,6 +24,7 @@
 
 ## 이야기(블로그)
 
+- [여성 잠옷 사이즈는 평소 옷 사이즈와 같게 고르면 되나요?](https://nupnup.vercel.app/story/womens-pajama-size-guide.html): 어깨, 허리, 밑위, 길이와 선물 상황까지 보는 여성 잠옷 사이즈 기준
 - [파자마와 로브를 세트로 사면 어떤 점이 좋은가요?](https://nupnup.vercel.app/story/pajama-robe-set-benefits.html): 색감, 실루엣, 온도 조절, 선물 구성까지 보는 파자마와 로브 세트 기준
 - [로브는 잠옷 위에 언제 입으면 실용적인가요?](https://nupnup.vercel.app/story/robe-over-pajamas.html): 아침저녁 온도 차, 집 안 응대, 주말 아침에 로브를 활용하는 기준
 - [잠옷과 홈웨어는 어떤 차이가 있나요?](https://nupnup.vercel.app/story/pajamas-vs-homewear.html): 잠자는 시간 중심의 잠옷과 집 안 생활까지 보는 홈웨어의 차이
