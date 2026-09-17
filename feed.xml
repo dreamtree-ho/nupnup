@@ -5,7 +5,15 @@
     <link>https://nupnup.vercel.app/story/</link>
     <description>기분 좋은 밤을 만드는 noop noop의 홈웨어와 브랜드 이야기</description>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 16 Sep 2026 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 00:00:00 +0900</lastBuildDate>
+    <item>
+      <title>체형에 구애받지 않는 유니핏 파자마란 무엇인가요?</title>
+      <link>https://nupnup.vercel.app/story/uni-fit-pajama-body-types.html</link>
+      <description>하나의 사이즈 이름보다 어깨, 허리, 밑위, 소매·바지 길이의 여유를 함께 보는 유니핏 파자마 기준입니다.</description>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://nupnup.vercel.app/story/uni-fit-pajama-body-types.html</guid>
+    </item>
+
     <item>
       <title>여성 잠옷 사이즈는 평소 옷 사이즈와 같게 고르면 되나요?</title>
       <link>https://nupnup.vercel.app/story/womens-pajama-size-guide.html</link>
@@ -147,13 +155,6 @@
       <description>예쁜 순간을 넘어 실제로 입는 시간의 만족까지 이어지게 하려는 noop noop의 제품 기준을 소개합니다.</description>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0900</pubDate>
       <guid isPermaLink="true">https://nupnup.vercel.app/story/what-noopnoop-values.html</guid>
-    </item>
-    <item>
-      <title>편안하면서 예쁜 홈웨어는 어떻게 골라야 할까요?</title>
-      <link>https://nupnup.vercel.app/story/how-to-choose-homewear.html</link>
-      <description>핏과 원단, 가격을 차례로 확인해 보기 좋은 순간이 실제 착용의 만족으로 이어지는 홈웨어를 고르는 기준입니다.</description>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0900</pubDate>
-      <guid isPermaLink="true">https://nupnup.vercel.app/story/how-to-choose-homewear.html</guid>
     </item>
   </channel>
 </rss>
