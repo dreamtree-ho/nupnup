@@ -5,7 +5,15 @@
     <link>https://nupnup.vercel.app/story/</link>
     <description>기분 좋은 밤을 만드는 noop noop의 홈웨어와 브랜드 이야기</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 18 Sep 2026 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 00:00:00 +0900</lastBuildDate>
+    <item>
+      <title>키가 크거나 작은 사람도 같은 파자마를 편하게 입을 수 있나요?</title>
+      <link>https://nupnup.vercel.app/story/pajama-fit-for-height.html</link>
+      <description>키만 보지 않고 상의·소매·밑위·바지 총장을 평소 편한 잠옷과 비교해 파자마 길이를 고르는 기준입니다.</description>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://nupnup.vercel.app/story/pajama-fit-for-height.html</guid>
+    </item>
+
     <item>
       <title>오버핏 잠옷은 얼마나 여유 있게 골라야 편한가요?</title>
       <link>https://nupnup.vercel.app/story/oversized-pajama-fit-guide.html</link>
@@ -149,13 +157,6 @@
       <description>14년의 원단 경험, 편안함과 디자인을 함께 보는 기준, 필요 이상의 감성값을 줄이려는 가격 관점을 소개합니다.</description>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0900</pubDate>
       <guid isPermaLink="true">https://nupnup.vercel.app/story/what-makes-noopnoop-different.html</guid>
-    </item>
-    <item>
-      <title>12만 원의 로브가 noop noop의 시작이 된 이유는?</title>
-      <link>https://nupnup.vercel.app/story/why-noopnoop-started.html</link>
-      <description>가격표 앞에서 고민하던 아내를 본 순간, 원단을 다룬 14년의 경험으로 직접 홈웨어를 만들기로 한 이야기입니다.</description>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0900</pubDate>
-      <guid isPermaLink="true">https://nupnup.vercel.app/story/why-noopnoop-started.html</guid>
     </item>
   </channel>
 </rss>
