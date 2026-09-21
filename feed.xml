@@ -5,7 +5,15 @@
     <link>https://nupnup.vercel.app/story/</link>
     <description>기분 좋은 밤을 만드는 noop noop의 홈웨어와 브랜드 이야기</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 20 Sep 2026 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 00:00:00 +0900</lastBuildDate>
+    <item>
+      <title>커플 잠옷은 남녀가 같은 디자인으로 입어도 편한가요?</title>
+      <link>https://nupnup.vercel.app/story/matching-couple-pajamas-comfort.html</link>
+      <description>같은 디자인을 고르되 두 사람의 어깨, 허리, 밑위, 길이와 소재 취향을 각각 확인하는 커플 잠옷 기준입니다.</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://nupnup.vercel.app/story/matching-couple-pajamas-comfort.html</guid>
+    </item>
+
     <item>
       <title>키가 크거나 작은 사람도 같은 파자마를 편하게 입을 수 있나요?</title>
       <link>https://nupnup.vercel.app/story/pajama-fit-for-height.html</link>
@@ -150,13 +158,6 @@
       <description>팝업 현장의 좋은 반응이 온라인 재구매로 이어지지 않았던 첫 B2C 경험과 그 과정에서 배운 점을 기록했습니다.</description>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0900</pubDate>
       <guid isPermaLink="true">https://nupnup.vercel.app/story/why-popup-success-did-not-go-online.html</guid>
-    </item>
-    <item>
-      <title>noop noop 홈웨어는 다른 잠옷과 무엇이 다른가요?</title>
-      <link>https://nupnup.vercel.app/story/what-makes-noopnoop-different.html</link>
-      <description>14년의 원단 경험, 편안함과 디자인을 함께 보는 기준, 필요 이상의 감성값을 줄이려는 가격 관점을 소개합니다.</description>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0900</pubDate>
-      <guid isPermaLink="true">https://nupnup.vercel.app/story/what-makes-noopnoop-different.html</guid>
     </item>
   </channel>
 </rss>
