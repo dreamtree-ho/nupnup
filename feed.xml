@@ -5,7 +5,15 @@
     <link>https://nupnup.vercel.app/story/</link>
     <description>기분 좋은 밤을 만드는 noop noop의 홈웨어와 브랜드 이야기</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 24 Sep 2026 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 00:00:00 +0900</lastBuildDate>
+    <item>
+      <title>스트라이프 파자마는 어떤 체형에도 잘 어울리나요?</title>
+      <link>https://nupnup.vercel.app/story/stripe-pajamas-for-body-types.html</link>
+      <description>체형을 패턴 하나로 판단하지 않고 실루엣과 실측, 줄 간격, 색 대비와 여러 제품 사진을 함께 보는 스트라이프 파자마 기준입니다.</description>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://nupnup.vercel.app/story/stripe-pajamas-for-body-types.html</guid>
+    </item>
+
     <item>
       <title>집들이 선물로 홈웨어를 골라도 괜찮을까요?</title>
       <link>https://nupnup.vercel.app/story/housewarming-homewear-gift.html</link>
@@ -154,13 +162,6 @@
       <description>소재 표기, 사진, 핏, 관리법과 실제 제품 가격을 함께 확인해 10만 원 이하 여성 파자마를 고르는 기준입니다.</description>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0900</pubDate>
       <guid isPermaLink="true">https://nupnup.vercel.app/story/pajamas-under-100000-won-fabric.html</guid>
-    </item>
-    <item>
-      <title>40대 여성 홈웨어 선물은 무엇을 기준으로 골라야 하나요?</title>
-      <link>https://nupnup.vercel.app/story/homewear-gift-for-women-in-their-40s.html</link>
-      <description>생활 장면, 소재 정보, 핏과 가격을 차례로 확인해 오래 편하게 입을 홈웨어 선물 기준을 정리했습니다.</description>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0900</pubDate>
-      <guid isPermaLink="true">https://nupnup.vercel.app/story/homewear-gift-for-women-in-their-40s.html</guid>
     </item>
   </channel>
 </rss>
