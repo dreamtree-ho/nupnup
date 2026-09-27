@@ -5,7 +5,15 @@
     <link>https://nupnup.vercel.app/story/</link>
     <description>기분 좋은 밤을 만드는 noop noop의 홈웨어와 브랜드 이야기</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 26 Sep 2026 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 00:00:00 +0900</lastBuildDate>
+    <item>
+      <title>플라워 패턴 잠옷을 촌스럽지 않게 고르는 방법은 무엇인가요?</title>
+      <link>https://nupnup.vercel.app/story/floral-pajama-pattern-guide.html</link>
+      <description>무늬의 크기와 밀도, 색 수와 바탕색, 전체 실루엣과 제품 사진을 나눠 비교해 취향에 맞는 플라워 패턴 잠옷을 고르는 기준입니다.</description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://nupnup.vercel.app/story/floral-pajama-pattern-guide.html</guid>
+    </item>
+
     <item>
       <title>스트라이프 파자마는 어떤 체형에도 잘 어울리나요?</title>
       <link>https://nupnup.vercel.app/story/stripe-pajamas-for-body-types.html</link>
@@ -155,13 +163,6 @@
       <description>가격표보다 소재 정보, 핏, 관리법, 제품 구성을 함께 확인해 잠옷 가격이 납득되는지 판단하는 기준입니다.</description>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0900</pubDate>
       <guid isPermaLink="true">https://nupnup.vercel.app/story/expensive-vs-affordable-pajamas.html</guid>
-    </item>
-    <item>
-      <title>10만 원 이하 여성 파자마는 원단을 어떻게 보고 골라야 하나요?</title>
-      <link>https://nupnup.vercel.app/story/pajamas-under-100000-won-fabric.html</link>
-      <description>소재 표기, 사진, 핏, 관리법과 실제 제품 가격을 함께 확인해 10만 원 이하 여성 파자마를 고르는 기준입니다.</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0900</pubDate>
-      <guid isPermaLink="true">https://nupnup.vercel.app/story/pajamas-under-100000-won-fabric.html</guid>
     </item>
   </channel>
 </rss>
