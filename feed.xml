@@ -5,7 +5,15 @@
     <link>https://nupnup.vercel.app/story/</link>
     <description>기분 좋은 밤을 만드는 noop noop의 홈웨어와 브랜드 이야기</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 28 Sep 2026 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 00:00:00 +0900</lastBuildDate>
+    <item>
+      <title>밝은 색 잠옷은 세탁 후 색이 바래지 않게 어떻게 관리하나요?</title>
+      <link>https://nupnup.vercel.app/story/bright-pajama-color-care.html</link>
+      <description>세탁 전 취급표시를 읽고 세탁·건조·표백 경고와 색상 분리 지시를 제품별로 확인하는 밝은 색 잠옷 관리 순서입니다.</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://nupnup.vercel.app/story/bright-pajama-color-care.html</guid>
+    </item>
+
     <item>
       <title>플라워 패턴 잠옷을 촌스럽지 않게 고르는 방법은 무엇인가요?</title>
       <link>https://nupnup.vercel.app/story/floral-pajama-pattern-guide.html</link>
@@ -156,13 +164,6 @@
       <description>소재 표기, 사진, 핏, 관리법, 실제 제품 정보로 잠옷 가격의 이유를 확인하는 구매 전 점검 기준입니다.</description>
       <pubDate>Sat, 05 Sep 2026 00:00:00 +0900</pubDate>
       <guid isPermaLink="true">https://nupnup.vercel.app/story/emotional-markup-pajama-price.html</guid>
-    </item>
-    <item>
-      <title>비싼 잠옷과 합리적인 잠옷은 무엇이 다른가요?</title>
-      <link>https://nupnup.vercel.app/story/expensive-vs-affordable-pajamas.html</link>
-      <description>가격표보다 소재 정보, 핏, 관리법, 제품 구성을 함께 확인해 잠옷 가격이 납득되는지 판단하는 기준입니다.</description>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0900</pubDate>
-      <guid isPermaLink="true">https://nupnup.vercel.app/story/expensive-vs-affordable-pajamas.html</guid>
     </item>
   </channel>
 </rss>
