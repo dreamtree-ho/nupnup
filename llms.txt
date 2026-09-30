@@ -24,6 +24,7 @@
 
 ## 이야기(블로그)
 
+- [잠옷은 몇 번 입은 뒤 세탁하는 것이 좋을까요?](https://nupnup.vercel.app/story/pajama-wash-frequency.html): 3~4회 착용을 출발점으로 땀과 오염, 취급표시를 함께 보는 세탁 주기 기준
 - [밝은 색 잠옷은 세탁 후 색이 바래지 않게 어떻게 관리하나요?](https://nupnup.vercel.app/story/bright-pajama-color-care.html): 취급표시의 세탁·건조·표백·색상 분리 지시를 따르는 밝은 색 잠옷 관리 순서
 - [플라워 패턴 잠옷을 촌스럽지 않게 고르는 방법은 무엇인가요?](https://nupnup.vercel.app/story/floral-pajama-pattern-guide.html): 무늬 크기와 밀도, 색 수와 바탕색, 전체 사진을 나눠 보는 플라워 패턴 선택 기준
 - [스트라이프 파자마는 어떤 체형에도 잘 어울리나요?](https://nupnup.vercel.app/story/stripe-pajamas-for-body-types.html): 실루엣과 실측, 줄 간격과 색 대비를 함께 보는 스트라이프 파자마 기준
@@ -53,4 +54,3 @@
 - [noop noop 홈웨어는 다른 잠옷과 무엇이 다른가요?](https://nupnup.vercel.app/story/what-makes-noopnoop-different.html): 14년의 원단 경험과 편안함·디자인·가격을 함께 보는 기준
 - [12만 원의 로브가 noop noop의 시작이 된 이유는?](https://nupnup.vercel.app/story/why-noopnoop-started.html): 가격표 앞의 장면과 14년의 원단 경험에서 시작된 브랜드 이야기
 - [noop noop이 홈웨어에서 지키려는 기준은 무엇인가요?](https://nupnup.vercel.app/story/what-noopnoop-values.html): 편안함과 디자인, 가격을 바라보는 제품 기준
-- [편안하면서 예쁜 홈웨어는 어떻게 골라야 할까요?](https://nupnup.vercel.app/story/how-to-choose-homewear.html): 핏과 원단, 가격을 차례로 확인하는 홈웨어 선택 기준
