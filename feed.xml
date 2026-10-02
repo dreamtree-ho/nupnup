@@ -5,7 +5,15 @@
     <link>https://nupnup.vercel.app/story/</link>
     <description>기분 좋은 밤을 만드는 noop noop의 홈웨어와 브랜드 이야기</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 00:00:00 +0900</lastBuildDate>
+    <item>
+      <title>잠옷을 입기 전에 반드시 한 번 세탁해야 하나요?</title>
+      <link>https://nupnup.vercel.app/story/wash-new-pajamas-before-wearing.html</link>
+      <description>피부 접촉 시간과 민감도, 제품 취급표시, 첫 세탁의 색상 분리와 건조 조건을 확인해 새 잠옷의 첫 세탁을 결정하는 기준입니다.</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://nupnup.vercel.app/story/wash-new-pajamas-before-wearing.html</guid>
+    </item>
+
     <item>
       <title>파자마를 오래 입으려면 세탁과 건조를 어떻게 해야 하나요?</title>
       <link>https://nupnup.vercel.app/story/pajama-wash-and-dry-care.html</link>
@@ -156,14 +164,6 @@
       <description>얇기만 보지 않고 통기감, 넉넉한 핏, 세탁 안내, 냉방 환경을 함께 확인하는 여름 긴팔 파자마 선택 기준입니다.</description>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0900</pubDate>
       <guid isPermaLink="true">https://nupnup.vercel.app/story/lightweight-long-sleeve-pajamas.html</guid>
-    </item>
-
-    <item>
-      <title>사계절 입기 좋은 잠옷 원단은 어떻게 고르나요?</title>
-      <link>https://nupnup.vercel.app/story/year-round-pajama-fabric.html</link>
-      <description>실내 온도에 맞는 두께, 피부에 닿는 촉감, 세탁 안내, 겹쳐 입기 쉬운 구성을 함께 보는 사계절 잠옷 원단 기준입니다.</description>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0900</pubDate>
-      <guid isPermaLink="true">https://nupnup.vercel.app/story/year-round-pajama-fabric.html</guid>
     </item>
 
   </channel>
