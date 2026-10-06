@@ -5,7 +5,15 @@
     <link>https://nupnup.vercel.app/story/</link>
     <description>기분 좋은 밤을 만드는 noop noop의 홈웨어와 브랜드 이야기</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 05 Oct 2026 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 00:00:00 +0900</lastBuildDate>
+    <item>
+      <title>파자마는 세탁망에 넣어 빨아야 하나요?</title>
+      <link>https://nupnup.vercel.app/story/pajama-laundry-mesh-bag.html</link>
+      <description>취급표시와 세탁기 안내, 끈과 장식, 다른 옷과의 마찰 가능성을 확인해 파자마에 세탁망을 사용할지 정하는 기준입니다.</description>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://nupnup.vercel.app/story/pajama-laundry-mesh-bag.html</guid>
+    </item>
+
     <item>
       <title>백화점 팝업에서 본 잠옷을 온라인에서 다시 찾으려면 어떻게 해야 하나요?</title>
       <link>https://nupnup.vercel.app/story/find-popup-pajamas-online.html</link>
@@ -156,14 +164,6 @@
       <description>잠자는 시간 중심의 잠옷과 집 안 생활까지 보는 홈웨어의 차이를 형태, 핏, 소재, 로브 활용 기준으로 정리했습니다.</description>
       <pubDate>Sun, 13 Sep 2026 00:00:00 +0900</pubDate>
       <guid isPermaLink="true">https://nupnup.vercel.app/story/pajamas-vs-homewear.html</guid>
-    </item>
-
-    <item>
-      <title>집에서도 갖춰 입은 느낌의 홈웨어는 어떻게 고르나요?</title>
-      <link>https://nupnup.vercel.app/story/polished-homewear-at-home.html</link>
-      <description>색과 패턴, 실루엣, 소재 정보, 로브 활용을 함께 확인해 집에서도 단정해 보이는 홈웨어를 고르는 기준입니다.</description>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0900</pubDate>
-      <guid isPermaLink="true">https://nupnup.vercel.app/story/polished-homewear-at-home.html</guid>
     </item>
 
   </channel>
