@@ -5,7 +5,15 @@
     <link>https://nupnup.vercel.app/story/</link>
     <description>기분 좋은 밤을 만드는 noop noop의 홈웨어와 브랜드 이야기</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 06 Oct 2026 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 00:00:00 +0900</lastBuildDate>
+    <item>
+      <title>잠옷을 뒤집어 세탁하면 색과 원단 관리에 도움이 되나요?</title>
+      <link>https://nupnup.vercel.app/story/wash-pajamas-inside-out.html</link>
+      <description>취급표시와 얼룩 위치, 색상 분류, 세탁 코스와 건조 지시를 함께 확인해 잠옷을 뒤집어 세탁할지 정하는 기준입니다.</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://nupnup.vercel.app/story/wash-pajamas-inside-out.html</guid>
+    </item>
+
     <item>
       <title>파자마는 세탁망에 넣어 빨아야 하나요?</title>
       <link>https://nupnup.vercel.app/story/pajama-laundry-mesh-bag.html</link>
@@ -156,14 +164,6 @@
       <description>아침저녁 온도 차, 손님·택배·주말 아침처럼 잠옷만 입기 애매한 순간에 로브를 활용하는 기준입니다.</description>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0900</pubDate>
       <guid isPermaLink="true">https://nupnup.vercel.app/story/robe-over-pajamas.html</guid>
-    </item>
-
-    <item>
-      <title>잠옷과 홈웨어는 어떤 차이가 있나요?</title>
-      <link>https://nupnup.vercel.app/story/pajamas-vs-homewear.html</link>
-      <description>잠자는 시간 중심의 잠옷과 집 안 생활까지 보는 홈웨어의 차이를 형태, 핏, 소재, 로브 활용 기준으로 정리했습니다.</description>
-      <pubDate>Sun, 13 Sep 2026 00:00:00 +0900</pubDate>
-      <guid isPermaLink="true">https://nupnup.vercel.app/story/pajamas-vs-homewear.html</guid>
     </item>
 
   </channel>

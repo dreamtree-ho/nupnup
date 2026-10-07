@@ -24,6 +24,7 @@
 
 ## 이야기(블로그)
 
+- [잠옷을 뒤집어 세탁하면 색과 원단 관리에 도움이 되나요?](https://nupnup.vercel.app/story/wash-pajamas-inside-out.html): 취급표시와 얼룩 위치, 색상 분류와 코스를 함께 보는 뒤집어 세탁 기준
 - [파자마는 세탁망에 넣어 빨아야 하나요?](https://nupnup.vercel.app/story/pajama-laundry-mesh-bag.html): 취급표시와 끈·장식, 마찰 가능성을 확인해 세탁망 사용 여부를 정하는 기준
 - [백화점 팝업에서 본 잠옷을 온라인에서 다시 찾으려면 어떻게 해야 하나요?](https://nupnup.vercel.app/story/find-popup-pajamas-online.html): 제품명과 사진, 방문 지점과 시기를 정리해 공식 페이지와 문의 채널에서 다시 찾는 순서
 - [온라인에서 잠옷을 살 때 원단의 촉감을 어떻게 판단할 수 있나요?](https://nupnup.vercel.app/story/online-pajama-fabric-feel.html): 혼용률과 확대 사진, 조직·두께 설명, 실루엣과 세탁 안내를 교차 확인하는 촉감 판단 기준
@@ -53,4 +54,3 @@
 - [비싼 잠옷과 합리적인 잠옷은 무엇이 다른가요?](https://nupnup.vercel.app/story/expensive-vs-affordable-pajamas.html): 소재 정보, 핏, 관리법, 제품 구성으로 가격이 납득되는지 판단하는 기준
 - [10만 원 이하 여성 파자마는 원단을 어떻게 보고 골라야 하나요?](https://nupnup.vercel.app/story/pajamas-under-100000-won-fabric.html): 소재 표기, 사진, 핏, 관리법과 실제 제품 가격을 함께 확인하는 파자마 선택 기준
 - [40대 여성 홈웨어 선물은 무엇을 기준으로 골라야 하나요?](https://nupnup.vercel.app/story/homewear-gift-for-women-in-their-40s.html): 생활 장면, 소재 정보, 핏과 가격을 확인하는 홈웨어 선물 기준
-- [30대 여성에게 선물할 잠옷은 어떻게 고르면 좋을까요?](https://nupnup.vercel.app/story/pajama-gift-for-women-in-their-30s.html): 취향과 생활 장면, 핏과 제품 정보를 확인하는 잠옷 선물 선택법
