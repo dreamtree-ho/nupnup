@@ -5,7 +5,15 @@
     <link>https://nupnup.vercel.app/story/</link>
     <description>기분 좋은 밤을 만드는 noop noop의 홈웨어와 브랜드 이야기</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 08 Oct 2026 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 00:00:00 +0900</lastBuildDate>
+    <item>
+      <title>세탁 후 잠옷이 줄었는지 어떻게 확인할 수 있나요?</title>
+      <link>https://nupnup.vercel.app/story/check-pajama-shrinkage-after-washing.html</link>
+      <description>세탁 전후 같은 상태와 측정 지점을 맞춰 상의와 하의의 주요 치수를 다시 재고 잠옷의 수축 여부를 확인하는 방법입니다.</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://nupnup.vercel.app/story/check-pajama-shrinkage-after-washing.html</guid>
+    </item>
+
     <item>
       <title>건조기 사용이 가능한 잠옷은 취급표시에서 어떻게 확인하나요?</title>
       <link>https://nupnup.vercel.app/story/pajama-tumble-dry-care-label.html</link>
@@ -156,14 +164,6 @@
       <description>평소 옷 사이즈만 보지 않고 어깨, 허리, 밑위, 소매·바지 길이와 수면 동작을 함께 보는 여성 잠옷 사이즈 기준입니다.</description>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0900</pubDate>
       <guid isPermaLink="true">https://nupnup.vercel.app/story/womens-pajama-size-guide.html</guid>
-    </item>
-
-    <item>
-      <title>파자마와 로브를 세트로 사면 어떤 점이 좋은가요?</title>
-      <link>https://nupnup.vercel.app/story/pajama-robe-set-benefits.html</link>
-      <description>파자마와 로브를 함께 고를 때 생기는 색감, 실루엣, 온도 조절, 선물 구성의 장점을 정리했습니다.</description>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0900</pubDate>
-      <guid isPermaLink="true">https://nupnup.vercel.app/story/pajama-robe-set-benefits.html</guid>
     </item>
 
   </channel>
