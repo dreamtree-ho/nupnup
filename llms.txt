@@ -24,6 +24,7 @@
 
 ## 이야기(블로그)
 
+- [파이핑이 있는 파자마는 세탁할 때 무엇을 확인해야 하나요?](https://nupnup.vercel.app/story/wash-pajamas-with-piping.html): 취급표시와 배색 경계, 파이핑 봉제선과 여밈 상태를 세탁 전후로 확인하는 기준
 - [세탁 후 잠옷이 줄었는지 어떻게 확인할 수 있나요?](https://nupnup.vercel.app/story/check-pajama-shrinkage-after-washing.html): 같은 상태와 측정 지점을 맞춰 세탁 전후 잠옷의 주요 치수를 비교하는 수축 확인 방법
 - [건조기 사용이 가능한 잠옷은 취급표시에서 어떻게 확인하나요?](https://nupnup.vercel.app/story/pajama-tumble-dry-care-label.html): 사각형 안 원과 X 표시, 온도와 코스 기호를 함께 읽는 잠옷 건조기 사용 판단 기준
 - [잠옷을 뒤집어 세탁하면 색과 원단 관리에 도움이 되나요?](https://nupnup.vercel.app/story/wash-pajamas-inside-out.html): 취급표시와 얼룩 위치, 색상 분류와 코스를 함께 보는 뒤집어 세탁 기준
@@ -53,4 +54,3 @@
 - [사계절 입기 좋은 잠옷 원단은 어떻게 고르나요?](https://nupnup.vercel.app/story/year-round-pajama-fabric.html): 실내 온도, 촉감, 세탁 안내, 겹쳐 입기를 함께 보는 사계절 잠옷 원단 기준
 - [피부에 닿는 잠옷 원단은 무엇을 확인해야 하나요?](https://nupnup.vercel.app/story/pajama-fabric-touching-skin.html): 소재명, 혼용률, 세탁 안내로 피부에 오래 닿는 잠옷 원단을 고르는 기준
 - [잠옷 가격에 감성값이 많이 붙었는지 어떻게 알 수 있나요?](https://nupnup.vercel.app/story/emotional-markup-pajama-price.html): 소재 표기, 사진, 핏, 관리법으로 가격의 이유를 확인하는 구매 전 점검 기준
-- [비싼 잠옷과 합리적인 잠옷은 무엇이 다른가요?](https://nupnup.vercel.app/story/expensive-vs-affordable-pajamas.html): 소재 정보, 핏, 관리법, 제품 구성으로 가격이 납득되는지 판단하는 기준
