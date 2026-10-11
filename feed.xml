@@ -5,7 +5,15 @@
     <link>https://nupnup.vercel.app/story/</link>
     <description>기분 좋은 밤을 만드는 noop noop의 홈웨어와 브랜드 이야기</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 10 Oct 2026 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 00:00:00 +0900</lastBuildDate>
+    <item>
+      <title>잠옷의 혼용률 표시는 세탁 방법을 고를 때 어떻게 읽나요?</title>
+      <link>https://nupnup.vercel.app/story/read-pajama-fiber-content-for-washing.html</link>
+      <description>혼용률에서 섬유명과 비율을 읽고 완성된 잠옷의 세탁·건조·다림질 취급표시를 함께 확인하는 기준입니다.</description>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://nupnup.vercel.app/story/read-pajama-fiber-content-for-washing.html</guid>
+    </item>
+
     <item>
       <title>파이핑이 있는 파자마는 세탁할 때 무엇을 확인해야 하나요?</title>
       <link>https://nupnup.vercel.app/story/wash-pajamas-with-piping.html</link>
@@ -156,14 +164,6 @@
       <description>평소 편한 잠옷의 어깨, 가슴, 허리, 밑위와 길이를 비교해 움직임을 방해하지 않는 오버핏을 고르는 기준입니다.</description>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0900</pubDate>
       <guid isPermaLink="true">https://nupnup.vercel.app/story/oversized-pajama-fit-guide.html</guid>
-    </item>
-
-    <item>
-      <title>체형에 구애받지 않는 유니핏 파자마란 무엇인가요?</title>
-      <link>https://nupnup.vercel.app/story/uni-fit-pajama-body-types.html</link>
-      <description>하나의 사이즈 이름보다 어깨, 허리, 밑위, 소매·바지 길이의 여유를 함께 보는 유니핏 파자마 기준입니다.</description>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0900</pubDate>
-      <guid isPermaLink="true">https://nupnup.vercel.app/story/uni-fit-pajama-body-types.html</guid>
     </item>
 
   </channel>
