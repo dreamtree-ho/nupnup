@@ -5,7 +5,15 @@
     <link>https://nupnup.vercel.app/story/</link>
     <description>기분 좋은 밤을 만드는 noop noop의 홈웨어와 브랜드 이야기</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 11 Oct 2026 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 00:00:00 +0900</lastBuildDate>
+    <item>
+      <title>로브는 파자마와 함께 세탁해도 되나요?</title>
+      <link>https://nupnup.vercel.app/story/wash-robe-and-pajamas-together.html</link>
+      <description>로브와 파자마의 취급표시, 색상 분리 지시, 원단 무게와 장식, 건조법을 비교해 함께 세탁할지 정하는 기준입니다.</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://nupnup.vercel.app/story/wash-robe-and-pajamas-together.html</guid>
+    </item>
+
     <item>
       <title>잠옷의 혼용률 표시는 세탁 방법을 고를 때 어떻게 읽나요?</title>
       <link>https://nupnup.vercel.app/story/read-pajama-fiber-content-for-washing.html</link>
@@ -156,14 +164,6 @@
       <description>키만 보지 않고 상의·소매·밑위·바지 총장을 평소 편한 잠옷과 비교해 파자마 길이를 고르는 기준입니다.</description>
       <pubDate>Sun, 20 Sep 2026 00:00:00 +0900</pubDate>
       <guid isPermaLink="true">https://nupnup.vercel.app/story/pajama-fit-for-height.html</guid>
-    </item>
-
-    <item>
-      <title>오버핏 잠옷은 얼마나 여유 있게 골라야 편한가요?</title>
-      <link>https://nupnup.vercel.app/story/oversized-pajama-fit-guide.html</link>
-      <description>평소 편한 잠옷의 어깨, 가슴, 허리, 밑위와 길이를 비교해 움직임을 방해하지 않는 오버핏을 고르는 기준입니다.</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0900</pubDate>
-      <guid isPermaLink="true">https://nupnup.vercel.app/story/oversized-pajama-fit-guide.html</guid>
     </item>
 
   </channel>
