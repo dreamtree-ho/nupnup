@@ -5,7 +5,15 @@
     <link>https://nupnup.vercel.app/story/</link>
     <description>기분 좋은 밤을 만드는 noop noop의 홈웨어와 브랜드 이야기</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 13 Oct 2026 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 00:00:00 +0900</lastBuildDate>
+    <item>
+      <title>잠옷을 접어서 보관할지 옷걸이에 걸지 어떻게 정하나요?</title>
+      <link>https://nupnup.vercel.app/story/fold-or-hang-pajamas-for-storage.html</link>
+      <description>원단의 형태 안정성, 옷의 무게, 어깨 봉제와 장식을 확인해 잠옷을 접을지 옷걸이에 걸지 정하는 기준입니다.</description>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://nupnup.vercel.app/story/fold-or-hang-pajamas-for-storage.html</guid>
+    </item>
+
     <item>
       <title>가을철 잠옷은 입기 전에 어떻게 꺼내고 점검해야 하나요?</title>
       <link>https://nupnup.vercel.app/story/inspect-autumn-pajamas-before-wearing.html</link>
@@ -156,14 +164,6 @@
       <description>부모님이 편하게 입을 사이즈와 핏을 먼저 확인하고 소재 정보, 세탁 방법과 교환 조건을 차례로 보는 선물 기준입니다.</description>
       <pubDate>Tue, 22 Sep 2026 00:00:00 +0900</pubDate>
       <guid isPermaLink="true">https://nupnup.vercel.app/story/pajama-gift-for-parents.html</guid>
-    </item>
-
-    <item>
-      <title>커플 잠옷은 남녀가 같은 디자인으로 입어도 편한가요?</title>
-      <link>https://nupnup.vercel.app/story/matching-couple-pajamas-comfort.html</link>
-      <description>같은 디자인을 고르되 두 사람의 어깨, 허리, 밑위, 길이와 소재 취향을 각각 확인하는 커플 잠옷 기준입니다.</description>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0900</pubDate>
-      <guid isPermaLink="true">https://nupnup.vercel.app/story/matching-couple-pajamas-comfort.html</guid>
     </item>
 
   </channel>
