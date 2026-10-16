@@ -5,7 +5,15 @@
     <link>https://nupnup.vercel.app/story/</link>
     <description>기분 좋은 밤을 만드는 noop noop의 홈웨어와 브랜드 이야기</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 15 Oct 2026 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 00:00:00 +0900</lastBuildDate>
+    <item>
+      <title>잠옷과 로브의 세탁 주기가 다르면 어떻게 나누어 관리하나요?</title>
+      <link>https://nupnup.vercel.app/story/manage-pajama-robe-wash-frequency.html</link>
+      <description>잠옷은 착용 횟수와 땀을, 로브는 피부 접촉과 사용 장면을 따로 기록하고 취급표시에 따라 세탁 시점을 나누는 기준입니다.</description>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://nupnup.vercel.app/story/manage-pajama-robe-wash-frequency.html</guid>
+    </item>
+
     <item>
       <title>잠옷에 화장품 얼룩이 묻었을 때 세탁 전에 무엇을 해야 하나요?</title>
       <link>https://nupnup.vercel.app/story/pretreat-makeup-stains-on-pajamas.html</link>
@@ -156,14 +164,6 @@
       <description>받는 사람의 집 안 생활, 사이즈, 색과 패턴 취향, 소재 정보와 교환 조건을 확인해 집들이 홈웨어 선물을 고르는 기준입니다.</description>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0900</pubDate>
       <guid isPermaLink="true">https://nupnup.vercel.app/story/housewarming-homewear-gift.html</guid>
-    </item>
-
-    <item>
-      <title>친구에게 잠옷을 선물할 때 실패하지 않는 색상은 무엇인가요?</title>
-      <link>https://nupnup.vercel.app/story/pajama-gift-color-for-friend.html</link>
-      <description>친구가 평소 입는 바탕색, 무지·패턴 선호, 제품 사진과 교환 조건을 확인해 잠옷 색상을 고르는 기준입니다.</description>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0900</pubDate>
-      <guid isPermaLink="true">https://nupnup.vercel.app/story/pajama-gift-color-for-friend.html</guid>
     </item>
 
   </channel>
