@@ -5,7 +5,15 @@
     <link>https://nupnup.vercel.app/story/</link>
     <description>기분 좋은 밤을 만드는 noop noop의 홈웨어와 브랜드 이야기</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 16 Oct 2026 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 00:00:00 +0900</lastBuildDate>
+    <item>
+      <title>파자마 단추가 느슨해졌을 때 세탁 전에 어떻게 점검하나요?</title>
+      <link>https://nupnup.vercel.app/story/inspect-loose-pajama-button-before-washing.html</link>
+      <description>단추의 균열과 남은 실, 단추 아래 원단과 단춧구멍을 확인하고 세탁 전에 보강 또는 수선 여부를 정하는 순서입니다.</description>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://nupnup.vercel.app/story/inspect-loose-pajama-button-before-washing.html</guid>
+    </item>
+
     <item>
       <title>잠옷과 로브의 세탁 주기가 다르면 어떻게 나누어 관리하나요?</title>
       <link>https://nupnup.vercel.app/story/manage-pajama-robe-wash-frequency.html</link>
@@ -156,14 +164,6 @@
       <description>체형을 패턴 하나로 판단하지 않고 실루엣과 실측, 줄 간격, 색 대비와 여러 제품 사진을 함께 보는 스트라이프 파자마 기준입니다.</description>
       <pubDate>Sat, 26 Sep 2026 00:00:00 +0900</pubDate>
       <guid isPermaLink="true">https://nupnup.vercel.app/story/stripe-pajamas-for-body-types.html</guid>
-    </item>
-
-    <item>
-      <title>집들이 선물로 홈웨어를 골라도 괜찮을까요?</title>
-      <link>https://nupnup.vercel.app/story/housewarming-homewear-gift.html</link>
-      <description>받는 사람의 집 안 생활, 사이즈, 색과 패턴 취향, 소재 정보와 교환 조건을 확인해 집들이 홈웨어 선물을 고르는 기준입니다.</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0900</pubDate>
-      <guid isPermaLink="true">https://nupnup.vercel.app/story/housewarming-homewear-gift.html</guid>
     </item>
 
   </channel>
