@@ -24,6 +24,7 @@
 
 ## 이야기(블로그)
 
+- [잠옷의 세탁 라벨이 흐려졌다면 관리법을 어떻게 확인하나요?](https://nupnup.vercel.app/story/recover-faded-pajama-care-label.html): 남은 글자와 기호, 제품명과 품번을 기록하고 공식 제품 안내로 관리법을 다시 찾는 순서
 - [파자마 단추가 느슨해졌을 때 세탁 전에 어떻게 점검하나요?](https://nupnup.vercel.app/story/inspect-loose-pajama-button-before-washing.html): 단추의 균열과 실, 원단과 단춧구멍을 확인하고 세탁 전에 보강 또는 수선 여부를 정하는 순서
 - [잠옷과 로브의 세탁 주기가 다르면 어떻게 나누어 관리하나요?](https://nupnup.vercel.app/story/manage-pajama-robe-wash-frequency.html): 잠옷은 착용 횟수와 땀을, 로브는 피부 접촉과 사용 장면을 따로 기록해 세탁 시점을 나누는 기준
 - [잠옷에 화장품 얼룩이 묻었을 때 세탁 전에 무엇을 해야 하나요?](https://nupnup.vercel.app/story/pretreat-makeup-stains-on-pajamas.html): 문지르지 않고 여분을 걷어낸 뒤 취급표시, 숨은 부분 시험과 세탁 후 재확인을 거치는 순서
@@ -53,4 +54,3 @@
 - [체형에 구애받지 않는 유니핏 파자마란 무엇인가요?](https://nupnup.vercel.app/story/uni-fit-pajama-body-types.html): 어깨, 허리, 밑위, 길이와 선물 상황까지 확인하는 유니핏 파자마 기준
 - [여성 잠옷 사이즈는 평소 옷 사이즈와 같게 고르면 되나요?](https://nupnup.vercel.app/story/womens-pajama-size-guide.html): 어깨, 허리, 밑위, 길이와 선물 상황까지 보는 여성 잠옷 사이즈 기준
 - [파자마와 로브를 세트로 사면 어떤 점이 좋은가요?](https://nupnup.vercel.app/story/pajama-robe-set-benefits.html): 색감, 실루엣, 온도 조절, 선물 구성까지 보는 파자마와 로브 세트 기준
-- [로브는 잠옷 위에 언제 입으면 실용적인가요?](https://nupnup.vercel.app/story/robe-over-pajamas.html): 아침저녁 온도 차, 집 안 응대, 주말 아침에 로브를 활용하는 기준
