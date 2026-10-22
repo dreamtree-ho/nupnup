@@ -24,6 +24,7 @@
 
 ## 이야기(블로그)
 
+- [가을철 로브는 착용 후 매번 세탁해야 하나요?](https://nupnup.vercel.app/story/wash-autumn-robe-after-every-wear.html): 피부 접촉, 땀·냄새·얼룩·습기와 취급표시로 세탁 시점을 정하는 기준
 - [잠옷을 자연 건조할 때 옷걸이 자국을 줄이려면 무엇을 확인하나요?](https://nupnup.vercel.app/story/air-dry-pajamas-without-hanger-marks.html): 걸기와 평평 건조를 구분하고 어깨선, 젖은 옷의 무게와 통풍 간격을 확인하는 기준
 - [짙은색 잠옷은 첫 세탁 때 다른 옷과 분리해야 하나요?](https://nupnup.vercel.app/story/wash-dark-pajamas-separately-first.html): 취급표시와 수온을 확인하고 밝은 옷을 제외해 비슷한 색과 조건끼리 나누는 첫 세탁 기준
 - [잠옷의 세탁 라벨이 흐려졌다면 관리법을 어떻게 확인하나요?](https://nupnup.vercel.app/story/recover-faded-pajama-care-label.html): 남은 글자와 기호, 제품명과 품번을 기록하고 공식 제품 안내로 관리법을 다시 찾는 순서
@@ -53,4 +54,3 @@
 - [커플 잠옷은 남녀가 같은 디자인으로 입어도 편한가요?](https://nupnup.vercel.app/story/matching-couple-pajamas-comfort.html): 두 사람의 치수와 소재 취향을 각각 확인하는 커플 잠옷 선택 기준
 - [키가 크거나 작은 사람도 같은 파자마를 편하게 입을 수 있나요?](https://nupnup.vercel.app/story/pajama-fit-for-height.html): 상의·소매·밑위·바지 총장을 비교해 키에 맞는 파자마 길이를 고르는 기준
 - [오버핏 잠옷은 얼마나 여유 있게 골라야 편한가요?](https://nupnup.vercel.app/story/oversized-pajama-fit-guide.html): 어깨, 가슴, 허리, 밑위와 길이를 비교해 편한 오버핏을 고르는 기준
-- [체형에 구애받지 않는 유니핏 파자마란 무엇인가요?](https://nupnup.vercel.app/story/uni-fit-pajama-body-types.html): 어깨, 허리, 밑위, 길이와 선물 상황까지 확인하는 유니핏 파자마 기준

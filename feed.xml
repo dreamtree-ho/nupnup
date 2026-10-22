@@ -5,7 +5,15 @@
     <link>https://nupnup.vercel.app/story/</link>
     <description>기분 좋은 밤을 만드는 noop noop의 홈웨어와 브랜드 이야기</description>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 21 Oct 2026 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 00:00:00 +0900</lastBuildDate>
+    <item>
+      <title>가을철 로브는 착용 후 매번 세탁해야 하나요?</title>
+      <link>https://nupnup.vercel.app/story/wash-autumn-robe-after-every-wear.html</link>
+      <description>피부 접촉과 착용 장면, 땀·냄새·얼룩·습기를 확인하고 취급표시에 따라 가을 로브의 세탁 시점을 정하는 기준입니다.</description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://nupnup.vercel.app/story/wash-autumn-robe-after-every-wear.html</guid>
+    </item>
+
     <item>
       <title>잠옷을 자연 건조할 때 옷걸이 자국을 줄이려면 무엇을 확인하나요?</title>
       <link>https://nupnup.vercel.app/story/air-dry-pajamas-without-hanger-marks.html</link>
@@ -156,14 +164,6 @@
       <description>제품 취급표시를 먼저 읽고 오염 처리, 세탁 분류, 물 온도와 건조 방식을 순서대로 확인하는 파자마 관리 기준입니다.</description>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0900</pubDate>
       <guid isPermaLink="true">https://nupnup.vercel.app/story/pajama-wash-and-dry-care.html</guid>
-    </item>
-
-    <item>
-      <title>잠옷은 몇 번 입은 뒤 세탁하는 것이 좋을까요?</title>
-      <link>https://nupnup.vercel.app/story/pajama-wash-frequency.html</link>
-      <description>3~4회 착용을 출발점으로 삼고 땀과 오염, 샤워 여부와 제품 취급표시에 따라 잠옷 세탁 시점을 조정하는 기준입니다.</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0900</pubDate>
-      <guid isPermaLink="true">https://nupnup.vercel.app/story/pajama-wash-frequency.html</guid>
     </item>
 
   </channel>
