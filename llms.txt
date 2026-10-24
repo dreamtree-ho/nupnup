@@ -24,6 +24,7 @@
 
 ## 이야기(블로그)
 
+- [파자마 허리 고무 밴드는 세탁 후 어떻게 점검하나요?](https://nupnup.vercel.app/story/inspect-pajama-elastic-waistband-after-washing.html): 완전히 마른 뒤 허리 밴드의 주름, 꼬임, 봉제선과 구간별 복원 상태를 확인하는 순서
 - [잠옷을 장기간 보관하기 전에 완전히 말랐는지 어떻게 확인하나요?](https://nupnup.vercel.app/story/check-pajamas-dry-before-long-term-storage.html): 허리밴드와 소매 끝, 주머니 안쪽과 겹친 봉제선을 확인하고 완전히 말려 보관하는 기준
 - [가을철 로브는 착용 후 매번 세탁해야 하나요?](https://nupnup.vercel.app/story/wash-autumn-robe-after-every-wear.html): 피부 접촉, 땀·냄새·얼룩·습기와 취급표시로 세탁 시점을 정하는 기준
 - [잠옷을 자연 건조할 때 옷걸이 자국을 줄이려면 무엇을 확인하나요?](https://nupnup.vercel.app/story/air-dry-pajamas-without-hanger-marks.html): 걸기와 평평 건조를 구분하고 어깨선, 젖은 옷의 무게와 통풍 간격을 확인하는 기준
@@ -53,4 +54,3 @@
 - [친구에게 잠옷을 선물할 때 실패하지 않는 색상은 무엇인가요?](https://nupnup.vercel.app/story/pajama-gift-color-for-friend.html): 평소 옷의 바탕색과 패턴 선호를 기준으로 친구 잠옷 색상을 고르는 방법
 - [부모님 잠옷 선물은 사이즈와 소재 중 무엇을 먼저 봐야 하나요?](https://nupnup.vercel.app/story/pajama-gift-for-parents.html): 사이즈와 핏을 먼저 확인하고 소재·세탁·교환 조건을 보는 부모님 선물 기준
 - [커플 잠옷은 남녀가 같은 디자인으로 입어도 편한가요?](https://nupnup.vercel.app/story/matching-couple-pajamas-comfort.html): 두 사람의 치수와 소재 취향을 각각 확인하는 커플 잠옷 선택 기준
-- [키가 크거나 작은 사람도 같은 파자마를 편하게 입을 수 있나요?](https://nupnup.vercel.app/story/pajama-fit-for-height.html): 상의·소매·밑위·바지 총장을 비교해 키에 맞는 파자마 길이를 고르는 기준
