@@ -5,7 +5,15 @@
     <link>https://nupnup.vercel.app/story/</link>
     <description>기분 좋은 밤을 만드는 noop noop의 홈웨어와 브랜드 이야기</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 25 Oct 2026 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 00:00:00 +0900</lastBuildDate>
+    <item>
+      <title>여행에서 입은 잠옷은 집에 돌아와 어떻게 세탁하고 보관하나요?</title>
+      <link>https://nupnup.vercel.app/story/wash-store-pajamas-after-travel.html</link>
+      <description>귀가 후 잠옷의 오염과 축축함, 주머니와 여밈을 확인하고 취급표시에 맞춰 세탁한 뒤 완전히 말려 보관하는 순서입니다.</description>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://nupnup.vercel.app/story/wash-store-pajamas-after-travel.html</guid>
+    </item>
+
     <item>
       <title>잠옷의 단추와 허리끈은 세탁 전에 어떻게 정리하나요?</title>
       <link>https://nupnup.vercel.app/story/prepare-pajama-buttons-waist-tie-before-washing.html</link>
@@ -156,14 +164,6 @@
       <description>취급표시와 세탁기 안내, 끈과 장식, 다른 옷과의 마찰 가능성을 확인해 파자마에 세탁망을 사용할지 정하는 기준입니다.</description>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0900</pubDate>
       <guid isPermaLink="true">https://nupnup.vercel.app/story/pajama-laundry-mesh-bag.html</guid>
-    </item>
-
-    <item>
-      <title>백화점 팝업에서 본 잠옷을 온라인에서 다시 찾으려면 어떻게 해야 하나요?</title>
-      <link>https://nupnup.vercel.app/story/find-popup-pajamas-online.html</link>
-      <description>제품명과 사진, 방문 지점과 시기를 정리하고 공식 제품 페이지와 문의 채널을 확인해 팝업 잠옷을 다시 찾는 순서입니다.</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0900</pubDate>
-      <guid isPermaLink="true">https://nupnup.vercel.app/story/find-popup-pajamas-online.html</guid>
     </item>
 
   </channel>
