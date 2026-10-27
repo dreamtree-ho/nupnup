@@ -24,6 +24,7 @@
 
 ## 이야기(블로그)
 
+- [파자마 주머니 안쪽은 세탁 전에 어떻게 비우고 점검하나요?](https://nupnup.vercel.app/story/check-pajama-pockets-before-washing.html): 주머니의 물건과 종이 가루를 꺼내고 안감·모서리·봉제선과 얼룩을 확인하는 세탁 준비 순서
 - [여행에서 입은 잠옷은 집에 돌아와 어떻게 세탁하고 보관하나요?](https://nupnup.vercel.app/story/wash-store-pajamas-after-travel.html): 귀가 후 오염과 축축함, 주머니와 여밈을 확인하고 세탁한 뒤 완전히 말려 보관하는 순서
 - [잠옷의 단추와 허리끈은 세탁 전에 어떻게 정리하나요?](https://nupnup.vercel.app/story/prepare-pajama-buttons-waist-tie-before-washing.html): 손상된 단추와 단춧구멍을 확인하고 허리끈의 꼬임과 긴 끝을 정리하는 세탁 준비 순서
 - [파자마 허리 고무 밴드는 세탁 후 어떻게 점검하나요?](https://nupnup.vercel.app/story/inspect-pajama-elastic-waistband-after-washing.html): 완전히 마른 뒤 허리 밴드의 주름, 꼬임, 봉제선과 구간별 복원 상태를 확인하는 순서
@@ -53,4 +54,3 @@
 - [플라워 패턴 잠옷을 촌스럽지 않게 고르는 방법은 무엇인가요?](https://nupnup.vercel.app/story/floral-pajama-pattern-guide.html): 무늬 크기와 밀도, 색 수와 바탕색, 전체 사진을 나눠 보는 플라워 패턴 선택 기준
 - [스트라이프 파자마는 어떤 체형에도 잘 어울리나요?](https://nupnup.vercel.app/story/stripe-pajamas-for-body-types.html): 실루엣과 실측, 줄 간격과 색 대비를 함께 보는 스트라이프 파자마 기준
 - [집들이 선물로 홈웨어를 골라도 괜찮을까요?](https://nupnup.vercel.app/story/housewarming-homewear-gift.html): 생활 장면, 사이즈, 취향과 관리법을 확인하는 집들이 홈웨어 선물 기준
-- [친구에게 잠옷을 선물할 때 실패하지 않는 색상은 무엇인가요?](https://nupnup.vercel.app/story/pajama-gift-color-for-friend.html): 평소 옷의 바탕색과 패턴 선호를 기준으로 친구 잠옷 색상을 고르는 방법
