@@ -5,7 +5,15 @@
     <link>https://nupnup.vercel.app/story/</link>
     <description>기분 좋은 밤을 만드는 noop noop의 홈웨어와 브랜드 이야기</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 27 Oct 2026 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 00:00:00 +0900</lastBuildDate>
+    <item>
+      <title>잠옷을 세탁 후 바로 개지 못할 때 어떻게 두어야 하나요?</title>
+      <link>https://nupnup.vercel.app/story/store-clean-pajamas-before-folding.html</link>
+      <description>세탁한 잠옷을 바로 개지 못할 때 완전히 마른 상태를 확인하고 깨끗한 곳에 펼쳐 두었다가 접어 보관하는 순서입니다.</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://nupnup.vercel.app/story/store-clean-pajamas-before-folding.html</guid>
+    </item>
+
     <item>
       <title>파자마 주머니 안쪽은 세탁 전에 어떻게 비우고 점검하나요?</title>
       <link>https://nupnup.vercel.app/story/check-pajama-pockets-before-washing.html</link>
@@ -156,14 +164,6 @@
       <description>취급표시의 사각형 안 원, X 표시, 온도와 코스 기호를 읽어 잠옷의 건조기 사용 가능 여부를 판단하는 기준입니다.</description>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0900</pubDate>
       <guid isPermaLink="true">https://nupnup.vercel.app/story/pajama-tumble-dry-care-label.html</guid>
-    </item>
-
-    <item>
-      <title>잠옷을 뒤집어 세탁하면 색과 원단 관리에 도움이 되나요?</title>
-      <link>https://nupnup.vercel.app/story/wash-pajamas-inside-out.html</link>
-      <description>취급표시와 얼룩 위치, 색상 분류, 세탁 코스와 건조 지시를 함께 확인해 잠옷을 뒤집어 세탁할지 정하는 기준입니다.</description>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0900</pubDate>
-      <guid isPermaLink="true">https://nupnup.vercel.app/story/wash-pajamas-inside-out.html</guid>
     </item>
 
   </channel>
