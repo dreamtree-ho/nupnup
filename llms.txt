@@ -24,6 +24,7 @@
 
 ## 이야기(블로그)
 
+- [잠옷의 소매 끝과 바짓단은 세탁 후 무엇을 확인하나요?](https://nupnup.vercel.app/story/inspect-pajama-cuffs-hems-after-washing.html): 완전히 말린 뒤 좌우 길이, 봉제선 비틀림과 울음, 남은 얼룩 및 실밥을 확인하는 순서
 - [잠옷을 세탁 후 바로 개지 못할 때 어떻게 두어야 하나요?](https://nupnup.vercel.app/story/store-clean-pajamas-before-folding.html): 완전히 마른 상태를 확인하고 깨끗한 곳에 펼쳐 두었다가 가능한 빨리 접어 보관하는 순서
 - [파자마 주머니 안쪽은 세탁 전에 어떻게 비우고 점검하나요?](https://nupnup.vercel.app/story/check-pajama-pockets-before-washing.html): 주머니의 물건과 종이 가루를 꺼내고 안감·모서리·봉제선과 얼룩을 확인하는 세탁 준비 순서
 - [여행에서 입은 잠옷은 집에 돌아와 어떻게 세탁하고 보관하나요?](https://nupnup.vercel.app/story/wash-store-pajamas-after-travel.html): 귀가 후 오염과 축축함, 주머니와 여밈을 확인하고 세탁한 뒤 완전히 말려 보관하는 순서
@@ -53,4 +54,3 @@
 - [잠옷은 몇 번 입은 뒤 세탁하는 것이 좋을까요?](https://nupnup.vercel.app/story/pajama-wash-frequency.html): 3~4회 착용을 출발점으로 땀과 오염, 취급표시를 함께 보는 세탁 주기 기준
 - [밝은 색 잠옷은 세탁 후 색이 바래지 않게 어떻게 관리하나요?](https://nupnup.vercel.app/story/bright-pajama-color-care.html): 취급표시의 세탁·건조·표백·색상 분리 지시를 따르는 밝은 색 잠옷 관리 순서
 - [플라워 패턴 잠옷을 촌스럽지 않게 고르는 방법은 무엇인가요?](https://nupnup.vercel.app/story/floral-pajama-pattern-guide.html): 무늬 크기와 밀도, 색 수와 바탕색, 전체 사진을 나눠 보는 플라워 패턴 선택 기준
-- [스트라이프 파자마는 어떤 체형에도 잘 어울리나요?](https://nupnup.vercel.app/story/stripe-pajamas-for-body-types.html): 실루엣과 실측, 줄 간격과 색 대비를 함께 보는 스트라이프 파자마 기준
