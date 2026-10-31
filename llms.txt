@@ -24,6 +24,7 @@
 
 ## 이야기(블로그)
 
+- [잠옷에 향수 냄새가 남았을 때 바로 세탁해야 하나요?](https://nupnup.vercel.app/story/wash-pajamas-after-perfume-smell.html): 향수 냄새와 자국, 피부 불편을 확인하고 통풍 또는 전처리 후 세탁 여부를 정하는 기준
 - [잠옷을 계절 교체용 상자에 넣을 때 어떤 순서로 접나요?](https://nupnup.vercel.app/story/fold-pajamas-for-seasonal-storage-box.html): 완전히 마른 잠옷의 상의와 하의를 정리하고 무게와 장식을 살펴 상자에 쌓는 순서
 - [로브 허리끈이 세탁 후 꼬였을 때 어떻게 형태를 정리하나요?](https://nupnup.vercel.app/story/untwist-robe-belt-after-washing.html): 완전히 말린 끈을 평평하게 놓고 가운데부터 양끝으로 비틀림을 풀며 봉제선과 고리를 확인하는 순서
 - [잠옷의 소매 끝과 바짓단은 세탁 후 무엇을 확인하나요?](https://nupnup.vercel.app/story/inspect-pajama-cuffs-hems-after-washing.html): 완전히 말린 뒤 좌우 길이, 봉제선 비틀림과 울음, 남은 얼룩 및 실밥을 확인하는 순서
@@ -53,4 +54,3 @@
 - [온라인에서 잠옷을 살 때 원단의 촉감을 어떻게 판단할 수 있나요?](https://nupnup.vercel.app/story/online-pajama-fabric-feel.html): 혼용률과 확대 사진, 조직·두께 설명, 실루엣과 세탁 안내를 교차 확인하는 촉감 판단 기준
 - [잠옷을 입기 전에 반드시 한 번 세탁해야 하나요?](https://nupnup.vercel.app/story/wash-new-pajamas-before-wearing.html): 피부 접촉과 민감도, 취급표시, 색상 분리와 건조 조건을 확인하는 첫 세탁 기준
 - [파자마를 오래 입으려면 세탁과 건조를 어떻게 해야 하나요?](https://nupnup.vercel.app/story/pajama-wash-and-dry-care.html): 취급표시와 오염 처리, 세탁 분류, 물 온도와 건조법을 확인하는 관리 기준
-- [잠옷은 몇 번 입은 뒤 세탁하는 것이 좋을까요?](https://nupnup.vercel.app/story/pajama-wash-frequency.html): 3~4회 착용을 출발점으로 땀과 오염, 취급표시를 함께 보는 세탁 주기 기준

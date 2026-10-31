@@ -5,7 +5,15 @@
     <link>https://nupnup.vercel.app/story/</link>
     <description>기분 좋은 밤을 만드는 noop noop의 홈웨어와 브랜드 이야기</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 31 Oct 2026 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 00:00:00 +0900</lastBuildDate>
+    <item>
+      <title>잠옷에 향수 냄새가 남았을 때 바로 세탁해야 하나요?</title>
+      <link>https://nupnup.vercel.app/story/wash-pajamas-after-perfume-smell.html</link>
+      <description>잠옷에 남은 향수 냄새와 자국, 피부 불편을 확인하고 통풍 또는 전처리 후 세탁 여부를 정하는 기준입니다.</description>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://nupnup.vercel.app/story/wash-pajamas-after-perfume-smell.html</guid>
+    </item>
+
     <item>
       <title>잠옷을 계절 교체용 상자에 넣을 때 어떤 순서로 접나요?</title>
       <link>https://nupnup.vercel.app/story/fold-pajamas-for-seasonal-storage-box.html</link>
@@ -156,14 +164,6 @@
       <description>로브와 파자마의 취급표시, 색상 분리 지시, 원단 무게와 장식, 건조법을 비교해 함께 세탁할지 정하는 기준입니다.</description>
       <pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
       <guid isPermaLink="true">https://nupnup.vercel.app/story/wash-robe-and-pajamas-together.html</guid>
-    </item>
-
-    <item>
-      <title>잠옷의 혼용률 표시는 세탁 방법을 고를 때 어떻게 읽나요?</title>
-      <link>https://nupnup.vercel.app/story/read-pajama-fiber-content-for-washing.html</link>
-      <description>혼용률에서 섬유명과 비율을 읽고 완성된 잠옷의 세탁·건조·다림질 취급표시를 함께 확인하는 기준입니다.</description>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 +0900</pubDate>
-      <guid isPermaLink="true">https://nupnup.vercel.app/story/read-pajama-fiber-content-for-washing.html</guid>
     </item>
 
   </channel>
