@@ -5,7 +5,15 @@
     <link>https://nupnup.vercel.app/story/</link>
     <description>기분 좋은 밤을 만드는 noop noop의 홈웨어와 브랜드 이야기</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 01 Nov 2026 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 00:00:00 +0900</lastBuildDate>
+    <item>
+      <title>겨울 잠옷을 처음 꺼낼 때 보풀과 정전기를 어떻게 점검하나요?</title>
+      <link>https://nupnup.vercel.app/story/check-winter-pajamas-pilling-static.html</link>
+      <description>보관했던 겨울 잠옷을 펼쳐 마찰 부위의 보풀과 겹친 원단의 정전기, 봉제선과 취급표시를 확인하는 순서입니다.</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://nupnup.vercel.app/story/check-winter-pajamas-pilling-static.html</guid>
+    </item>
+
     <item>
       <title>잠옷에 향수 냄새가 남았을 때 바로 세탁해야 하나요?</title>
       <link>https://nupnup.vercel.app/story/wash-pajamas-after-perfume-smell.html</link>
@@ -156,14 +164,6 @@
       <description>가을철 잠옷을 펼쳐 습기와 얼룩, 작은 구멍, 봉제와 장식 상태를 확인하고 취급표시에 따라 세탁 여부를 정하는 순서입니다.</description>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
       <guid isPermaLink="true">https://nupnup.vercel.app/story/inspect-autumn-pajamas-before-wearing.html</guid>
-    </item>
-
-    <item>
-      <title>로브는 파자마와 함께 세탁해도 되나요?</title>
-      <link>https://nupnup.vercel.app/story/wash-robe-and-pajamas-together.html</link>
-      <description>로브와 파자마의 취급표시, 색상 분리 지시, 원단 무게와 장식, 건조법을 비교해 함께 세탁할지 정하는 기준입니다.</description>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0900</pubDate>
-      <guid isPermaLink="true">https://nupnup.vercel.app/story/wash-robe-and-pajamas-together.html</guid>
     </item>
 
   </channel>
