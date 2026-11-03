@@ -5,7 +5,15 @@
     <link>https://nupnup.vercel.app/story/</link>
     <description>기분 좋은 밤을 만드는 noop noop의 홈웨어와 브랜드 이야기</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 02 Nov 2026 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 00:00:00 +0900</lastBuildDate>
+    <item>
+      <title>잠옷을 세탁한 뒤 단추 주변 원단이 울면 어떻게 확인하나요?</title>
+      <link>https://nupnup.vercel.app/story/inspect-puckering-around-pajama-buttons.html</link>
+      <description>완전히 마른 잠옷의 단추와 단춧구멍, 앞여밈 봉제선과 원단의 울음 범위를 비교해 손상 여부를 확인하는 순서입니다.</description>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://nupnup.vercel.app/story/inspect-puckering-around-pajama-buttons.html</guid>
+    </item>
+
     <item>
       <title>겨울 잠옷을 처음 꺼낼 때 보풀과 정전기를 어떻게 점검하나요?</title>
       <link>https://nupnup.vercel.app/story/check-winter-pajamas-pilling-static.html</link>
@@ -156,14 +164,6 @@
       <description>원단의 형태 안정성, 옷의 무게, 어깨 봉제와 장식을 확인해 잠옷을 접을지 옷걸이에 걸지 정하는 기준입니다.</description>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0900</pubDate>
       <guid isPermaLink="true">https://nupnup.vercel.app/story/fold-or-hang-pajamas-for-storage.html</guid>
-    </item>
-
-    <item>
-      <title>가을철 잠옷은 입기 전에 어떻게 꺼내고 점검해야 하나요?</title>
-      <link>https://nupnup.vercel.app/story/inspect-autumn-pajamas-before-wearing.html</link>
-      <description>가을철 잠옷을 펼쳐 습기와 얼룩, 작은 구멍, 봉제와 장식 상태를 확인하고 취급표시에 따라 세탁 여부를 정하는 순서입니다.</description>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0900</pubDate>
-      <guid isPermaLink="true">https://nupnup.vercel.app/story/inspect-autumn-pajamas-before-wearing.html</guid>
     </item>
 
   </channel>
