@@ -24,6 +24,7 @@
 
 ## 이야기(블로그)
 
+- [잠옷을 다른 가족의 옷과 함께 세탁할 때 무엇을 나눠 봐야 하나요?](https://nupnup.vercel.app/story/wash-pajamas-with-family-clothes.html): 취급표시와 색상, 보풀과 오염 정도로 가족 빨래와 잠옷을 함께 세탁할지 나누는 기준
 - [로브를 옷걸이에 걸어 보관할 때 허리끈은 어떻게 정리하나요?](https://nupnup.vercel.app/story/hang-robe-with-belt-for-storage.html): 완전히 말린 로브의 허리끈을 구분하고 고리와 어깨선에 당김이 몰리지 않도록 보관하는 순서
 - [잠옷을 세탁한 뒤 단추 주변 원단이 울면 어떻게 확인하나요?](https://nupnup.vercel.app/story/inspect-puckering-around-pajama-buttons.html): 완전히 말린 뒤 단추와 단춧구멍, 앞여밈 봉제선의 울음 범위와 손상을 비교하는 순서
 - [겨울 잠옷을 처음 꺼낼 때 보풀과 정전기를 어떻게 점검하나요?](https://nupnup.vercel.app/story/check-winter-pajamas-pilling-static.html): 보관한 잠옷의 마찰 부위 보풀과 겹친 원단의 정전기, 봉제선과 취급표시를 확인하는 순서
@@ -53,4 +54,3 @@
 - [건조기 사용이 가능한 잠옷은 취급표시에서 어떻게 확인하나요?](https://nupnup.vercel.app/story/pajama-tumble-dry-care-label.html): 사각형 안 원과 X 표시, 온도와 코스 기호를 함께 읽는 잠옷 건조기 사용 판단 기준
 - [잠옷을 뒤집어 세탁하면 색과 원단 관리에 도움이 되나요?](https://nupnup.vercel.app/story/wash-pajamas-inside-out.html): 취급표시와 얼룩 위치, 색상 분류와 코스를 함께 보는 뒤집어 세탁 기준
 - [파자마는 세탁망에 넣어 빨아야 하나요?](https://nupnup.vercel.app/story/pajama-laundry-mesh-bag.html): 취급표시와 끈·장식, 마찰 가능성을 확인해 세탁망 사용 여부를 정하는 기준
-- [백화점 팝업에서 본 잠옷을 온라인에서 다시 찾으려면 어떻게 해야 하나요?](https://nupnup.vercel.app/story/find-popup-pajamas-online.html): 제품명과 사진, 방문 지점과 시기를 정리해 공식 페이지와 문의 채널에서 다시 찾는 순서

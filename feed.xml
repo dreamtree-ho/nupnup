@@ -5,7 +5,15 @@
     <link>https://nupnup.vercel.app/story/</link>
     <description>기분 좋은 밤을 만드는 noop noop의 홈웨어와 브랜드 이야기</description>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 05 Nov 2026 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 00:00:00 +0900</lastBuildDate>
+    <item>
+      <title>잠옷을 다른 가족의 옷과 함께 세탁할 때 무엇을 나눠 봐야 하나요?</title>
+      <link>https://nupnup.vercel.app/story/wash-pajamas-with-family-clothes.html</link>
+      <description>가족별로 무조건 나누기보다 취급표시, 색, 보풀과 오염 정도를 비교해 같은 조건의 세탁물끼리 묶는 방법입니다.</description>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://nupnup.vercel.app/story/wash-pajamas-with-family-clothes.html</guid>
+    </item>
+
     <item>
       <title>로브를 옷걸이에 걸어 보관할 때 허리끈은 어떻게 정리하나요?</title>
       <link>https://nupnup.vercel.app/story/hang-robe-with-belt-for-storage.html</link>
@@ -158,13 +166,6 @@
       <guid isPermaLink="true">https://nupnup.vercel.app/story/manage-pajama-robe-wash-frequency.html</guid>
     </item>
 
-    <item>
-      <title>잠옷에 화장품 얼룩이 묻었을 때 세탁 전에 무엇을 해야 하나요?</title>
-      <link>https://nupnup.vercel.app/story/pretreat-makeup-stains-on-pajamas.html</link>
-      <description>화장품 얼룩을 문지르지 않고 여분을 걷어낸 뒤 취급표시와 전처리 제품을 확인하고, 숨은 부분 시험과 세탁 후 재확인을 거치는 순서입니다.</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0900</pubDate>
-      <guid isPermaLink="true">https://nupnup.vercel.app/story/pretreat-makeup-stains-on-pajamas.html</guid>
-    </item>
 
   </channel>
 </rss>
