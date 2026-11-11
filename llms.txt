@@ -24,6 +24,8 @@
 
 ## 이야기(블로그)
 
+- [눕눕 북촌 매장, 홈웨어에서 홈·리빙으로](https://nupnup.vercel.app/story/bukchon-home-living-precontract.html): 눕눕 북촌 매장 가계약을 마쳤습니다. 홈웨어뿐 아니라 다양한 홈·리빙 카테고리로 만날 다음 공간의 시작을 전합니다.
+
 - [30대 여성에게 선물할 잠옷은 어떻게 고르면 좋을까요?](https://nupnup.vercel.app/story/pajama-gift-for-women-in-their-30s.html): 취향과 생활 장면, 핏과 제품 정보를 확인하는 잠옷 선물 선택법
 - [계절이 바뀔 때 잠옷은 어떻게 보관해야 하나요?](https://nupnup.vercel.app/story/how-to-store-pajamas-seasonally.html): 세탁표시부터 건조, 접기, 수납 장소까지 정리한 계절 보관 순서
 - [팝업에서 잘 팔린 잠옷이 온라인에서는 왜 어려웠을까요?](https://nupnup.vercel.app/story/why-popup-success-did-not-go-online.html): 팝업의 좋은 반응을 온라인 재구매로 연결하지 못했던 첫 B2C 경험
@@ -31,3 +33,4 @@
 - [12만 원의 로브가 noop noop의 시작이 된 이유는?](https://nupnup.vercel.app/story/why-noopnoop-started.html): 가격표 앞의 장면과 14년의 원단 경험에서 시작된 브랜드 이야기
 - [noop noop이 홈웨어에서 지키려는 기준은 무엇인가요?](https://nupnup.vercel.app/story/what-noopnoop-values.html): 편안함과 디자인, 가격을 바라보는 제품 기준
 - [편안하면서 예쁜 홈웨어는 어떻게 골라야 할까요?](https://nupnup.vercel.app/story/how-to-choose-homewear.html): 핏과 원단, 가격을 차례로 확인하는 홈웨어 선택 기준
+
