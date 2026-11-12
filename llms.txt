@@ -24,6 +24,7 @@
 
 ## 이야기(블로그)
 
+- [기분 좋은 매장은 무엇부터 다를까요? — 눕눕의 공간 준비 기록](https://nupnup.vercel.app/story/store-preparation-customer-feeling.html): 망원·연남·합정의 매장 11곳을 둘러본 뒤 남은 질문들. 고객이 어떤 기분으로 머물다 갈지를 생각하는 눕눕의 공간 준비 기록입니다.
 - [눕눕 북촌 매장, 홈웨어에서 홈·리빙으로](https://nupnup.vercel.app/story/bukchon-home-living-precontract.html): 눕눕 북촌 매장 가계약을 마쳤습니다. 홈웨어뿐 아니라 다양한 홈·리빙 카테고리로 만날 다음 공간의 시작을 전합니다.
 
 - [30대 여성에게 선물할 잠옷은 어떻게 고르면 좋을까요?](https://nupnup.vercel.app/story/pajama-gift-for-women-in-their-30s.html): 취향과 생활 장면, 핏과 제품 정보를 확인하는 잠옷 선물 선택법
