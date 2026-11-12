@@ -23,6 +23,7 @@
 - [브리즈 루체 파자마](https://noopnoop.co.kr/product/breeze-%EB%B8%8C%EB%A6%AC%EC%A6%88-%EB%A3%A8%EC%B2%B4-%ED%8C%8C%EC%9E%90%EB%A7%88/690/category/63/display/1/): 브리즈 파자마
 
 ## 이야기(블로그)
+- [파자마를 세탁한 뒤 주머니 입구가 벌어지면 어떻게 점검하나요?](https://nupnup.vercel.app/story/check-gaping-pajama-pocket-opening.html): 세탁 뒤 파자마 주머니 입구가 벌어졌다면 옷을 평평하게 놓고 좌우 모양과 봉제선을 살펴보는 순서입니다.
 
 - [잠옷 상하의 색이 다르게 바래 보일 때 어떻게 비교하나요?](https://nupnup.vercel.app/story/compare-faded-pajama-top-and-bottom.html): 잠옷 상하의를 같은 조명에서 나란히 놓고 색 차이를 확인한 뒤 취급표시와 세탁 기록을 비교하는 순서입니다.
 
@@ -54,4 +55,3 @@
 - [잠옷에 화장품 얼룩이 묻었을 때 세탁 전에 무엇을 해야 하나요?](https://nupnup.vercel.app/story/pretreat-makeup-stains-on-pajamas.html): 문지르지 않고 여분을 걷어낸 뒤 취급표시, 숨은 부분 시험과 세탁 후 재확인을 거치는 순서
 - [잠옷을 접어서 보관할지 옷걸이에 걸지 어떻게 정하나요?](https://nupnup.vercel.app/story/fold-or-hang-pajamas-for-storage.html): 형태 안정성, 무게, 어깨 봉제와 장식을 확인해 접기와 옷걸이 보관을 나누는 기준
 - [가을철 잠옷은 입기 전에 어떻게 꺼내고 점검해야 하나요?](https://nupnup.vercel.app/story/inspect-autumn-pajamas-before-wearing.html): 습기와 얼룩, 작은 구멍, 봉제와 장식 상태를 확인하고 취급표시에 따라 세탁 여부를 정하는 순서
-- [로브는 파자마와 함께 세탁해도 되나요?](https://nupnup.vercel.app/story/wash-robe-and-pajamas-together.html): 취급표시, 색상 분리 지시, 원단 무게와 장식, 건조법을 비교해 함께 세탁할지 정하는 기준
