@@ -24,6 +24,8 @@
 
 ## 이야기(블로그)
 
+- [잠옷 상하의 색이 다르게 바래 보일 때 어떻게 비교하나요?](https://nupnup.vercel.app/story/compare-faded-pajama-top-and-bottom.html): 잠옷 상하의를 같은 조명에서 나란히 놓고 색 차이를 확인한 뒤 취급표시와 세탁 기록을 비교하는 순서입니다.
+
 - [로브 소매를 접어 입을 때 파이핑과 봉제선을 어떻게 정리하나요?](https://nupnup.vercel.app/story/fold-robe-sleeves-with-piping.html): 로브 소매의 파이핑과 봉제선을 살펴 접는 폭을 맞추고, 팔을 움직여 당김을 확인하는 순서입니다.
 - [잠옷을 세탁한 뒤 안쪽 봉제선이 까끌해지면 무엇을 확인하나요?](https://nupnup.vercel.app/story/check-rough-pajama-inner-seams-after-washing.html): 세탁 후 까끌해진 잠옷 안쪽의 실밥, 열린 봉제선, 잔여물과 취급표시를 살피는 순서입니다.
 - [두꺼운 겨울 잠옷과 얇은 옷을 함께 세탁해도 되나요?](https://nupnup.vercel.app/story/wash-heavy-winter-pajamas-with-light-clothes.html): 겨울 잠옷과 얇은 옷의 취급표시·색상·보풀과 세탁 조건을 비교해 함께 세탁할지 결정하는 기준입니다.
@@ -53,4 +55,3 @@
 - [잠옷을 접어서 보관할지 옷걸이에 걸지 어떻게 정하나요?](https://nupnup.vercel.app/story/fold-or-hang-pajamas-for-storage.html): 형태 안정성, 무게, 어깨 봉제와 장식을 확인해 접기와 옷걸이 보관을 나누는 기준
 - [가을철 잠옷은 입기 전에 어떻게 꺼내고 점검해야 하나요?](https://nupnup.vercel.app/story/inspect-autumn-pajamas-before-wearing.html): 습기와 얼룩, 작은 구멍, 봉제와 장식 상태를 확인하고 취급표시에 따라 세탁 여부를 정하는 순서
 - [로브는 파자마와 함께 세탁해도 되나요?](https://nupnup.vercel.app/story/wash-robe-and-pajamas-together.html): 취급표시, 색상 분리 지시, 원단 무게와 장식, 건조법을 비교해 함께 세탁할지 정하는 기준
-- [잠옷의 혼용률 표시는 세탁 방법을 고를 때 어떻게 읽나요?](https://nupnup.vercel.app/story/read-pajama-fiber-content-for-washing.html): 혼용률에서 섬유명과 비율을 읽고 완성된 잠옷의 취급표시를 함께 확인하는 기준
