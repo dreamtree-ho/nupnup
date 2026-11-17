@@ -2,15 +2,16 @@
   "store": {
     "name": "내 가게",
     "shippingFee": 3000,
-    "freeShippingOver": 50000,
+    "freeShippingOver": 70000,
     "shippingNote": "평일 오후 2시 전 주문은 당일 출고",
     "contact": "문의: 사이트 하단 연락처",
-    "notice": ""
+    "notice": "",
+    "returnPolicy": ""
   },
   "payment": {
     "bank": {
       "enabled": true,
-      "bankName": "OO은행",
+      "bankName": "",
       "account": "000-0000-0000-00",
       "holder": "예금주 이름",
       "dueHours": 48
