@@ -8,11 +8,63 @@
     "notice": ""
   },
   "payment": {
-    "bank": { "enabled": true, "bankName": "OO은행", "account": "000-0000-0000-00", "holder": "예금주 이름", "dueHours": 48 },
-    "toss": { "enabled": true, "clientKey": "test_gck_docs_Ovk5rk1EwkEbP0W43n07xlzm" }
+    "bank": {
+      "enabled": true,
+      "bankName": "OO은행",
+      "account": "000-0000-0000-00",
+      "holder": "예금주 이름",
+      "dueHours": 48
+    },
+    "toss": {
+      "enabled": true,
+      "clientKey": "test_gck_docs_Ovk5rk1EwkEbP0W43n07xlzm"
+    }
   },
-  "categories": ["대표 상품", "소품"],
+  "categories": [
+    "대표 상품",
+    "소품"
+  ],
   "products": [
+    {
+      "id": "m",
+      "sku": "",
+      "name": "퓨어 블루메리 파자마_M",
+      "category": "",
+      "summary": "",
+      "listPrice": 99000,
+      "price": 79900,
+      "salePrice": 0,
+      "saleStart": "",
+      "saleEnd": "",
+      "stock": null,
+      "status": "판매중",
+      "featured": true,
+      "badges": [],
+      "images": [
+        "shop/images/20261118-eovj5f.jpg"
+      ],
+      "options": [],
+      "specs": [
+        {
+          "k": "원산지 : 국내",
+          "v": ""
+        }
+      ],
+      "notice": [
+        {
+          "k": "사이즈: M",
+          "v": ""
+        },
+        {
+          "k": "소재 : 면60수",
+          "v": ""
+        }
+      ],
+      "detail": "# 손님이 가장 먼저 들어야 할 한 문장\n\n퓨어 블루메리 파자마_M이 어떤 분의 어떤 고민을 덜어 주는지 두 줄로 적어요.\n\n![대표 연출 사진](사진주소)\n\n## 이런 분께 권해요\n\n- 고민 하나\n- 고민 둘\n- 고민 셋\n\n> 우리가 이 상품을 만든(고른) 이유를 한두 문장으로.\n\n---\n\n## POINT 1 | 첫 번째 강점\n\n강점을 뒷받침하는 사실(원료·공정·수치)을 적어요.\n\n![강점 1 사진](사진주소)\n\n## POINT 2 | 두 번째 강점\n\n사실 위주로, 과장 없이.\n\n## POINT 3 | 세 번째 강점\n\n사실 위주로, 과장 없이.\n\n---\n\n## 구성 · 성분\n\n| 항목 | 내용 |\n| 용량 | 00g |\n| 원료 | 00, 00 |\n\n## 이렇게 쓰세요\n\n1. 첫 번째 단계\n2. 두 번째 단계\n3. 세 번째 단계\n\n## 자주 묻는 질문\n\n**Q. 질문 하나?**\n답을 적어요.\n\n**Q. 질문 둘?**\n답을 적어요.\n\n## 보관 · 주의\n\n- 보관 방법\n- 주의할 점",
+      "detailImages": [],
+      "maxQty": 10,
+      "createdAt": "2026-11-18"
+    },
     {
       "id": "sample-best",
       "sku": "P-0001",
@@ -27,11 +79,38 @@
       "stock": null,
       "status": "판매중",
       "featured": true,
-      "badges": ["BEST"],
-      "images": ["shop/images/sample-1.svg", "shop/images/sample-2.svg"],
+      "badges": [
+        "BEST"
+      ],
+      "images": [
+        "shop/images/sample-1.svg",
+        "shop/images/sample-2.svg"
+      ],
       "options": [],
-      "specs": [{ "k": "용량", "v": "500g" }, { "k": "원산지", "v": "국내" }],
-      "notice": [{ "k": "제품명", "v": "샘플 상품 500g" }, { "k": "제조국", "v": "대한민국" }, { "k": "소비자상담 연락처", "v": "상점 설정의 문의 연락처" }],
+      "specs": [
+        {
+          "k": "용량",
+          "v": "500g"
+        },
+        {
+          "k": "원산지",
+          "v": "국내"
+        }
+      ],
+      "notice": [
+        {
+          "k": "제품명",
+          "v": "샘플 상품 500g"
+        },
+        {
+          "k": "제조국",
+          "v": "대한민국"
+        },
+        {
+          "k": "소비자상담 연락처",
+          "v": "상점 설정의 문의 연락처"
+        }
+      ],
       "detail": "# 손님이 가장 먼저 들어야 할 한 문장\n\n상품이 어떤 분의 어떤 고민을 덜어 주는지 두 줄로 적어요.\n\n## 이런 분께 추천해요\n\n- 처음 써 보는 분\n- 선물을 고르는 분\n\n> 이 상품을 만든 이유를 한두 문장으로 적어요.\n\n## POINT 1 | 첫 번째 강점\n\n강점을 뒷받침하는 사실(재료·공정·수치)을 적어요.\n\n## 구성\n\n| 항목 | 내용 |\n| 용량 | 500g |\n| 원산지 | 국내 |\n\n## 이렇게 쓰세요\n\n1. 첫 번째 단계\n2. 두 번째 단계\n\n**굵게** 쓰고 싶은 말은 별표 두 개로 감싸요. 관리자 화면의 '한국형 상세 틀 넣기' 버튼을 누르면 전체 틀이 들어가요.",
       "detailImages": [],
       "maxQty": 10,
@@ -51,10 +130,33 @@
       "stock": 20,
       "status": "판매중",
       "featured": true,
-      "badges": ["NEW"],
-      "images": ["shop/images/sample-2.svg"],
-      "options": [{ "name": "색상", "values": [{ "label": "화이트", "add": 0 }, { "label": "블랙", "add": 1000 }] }],
-      "specs": [{ "k": "크기", "v": "10 × 10cm" }],
+      "badges": [
+        "NEW"
+      ],
+      "images": [
+        "shop/images/sample-2.svg"
+      ],
+      "options": [
+        {
+          "name": "색상",
+          "values": [
+            {
+              "label": "화이트",
+              "add": 0
+            },
+            {
+              "label": "블랙",
+              "add": 1000
+            }
+          ]
+        }
+      ],
+      "specs": [
+        {
+          "k": "크기",
+          "v": "10 × 10cm"
+        }
+      ],
       "detail": "옵션마다 추가 금액을 붙일 수 있어요. 블랙은 1,000원이 더해져요.",
       "detailImages": [],
       "maxQty": 5,
@@ -75,7 +177,9 @@
       "status": "품절",
       "featured": false,
       "badges": [],
-      "images": ["shop/images/sample-3.svg"],
+      "images": [
+        "shop/images/sample-3.svg"
+      ],
       "options": [],
       "specs": [],
       "detail": "",
