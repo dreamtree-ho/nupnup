@@ -221,52 +221,6 @@
       "updated": "2026-11-18"
     },
     {
-      "id": "sample-option",
-      "sku": "P-0002",
-      "name": "옵션 있는 샘플 상품",
-      "category": "소품",
-      "summary": "색상처럼 고르는 항목이 있으면 옵션으로 등록해요.",
-      "listPrice": 0,
-      "price": 15000,
-      "salePrice": 0,
-      "saleStart": "",
-      "saleEnd": "",
-      "stock": 20,
-      "status": "판매중",
-      "featured": true,
-      "badges": [
-        "NEW"
-      ],
-      "images": [
-        "shop/images/sample-2.svg"
-      ],
-      "options": [
-        {
-          "name": "색상",
-          "values": [
-            {
-              "label": "화이트",
-              "add": 0
-            },
-            {
-              "label": "블랙",
-              "add": 1000
-            }
-          ]
-        }
-      ],
-      "specs": [
-        {
-          "k": "크기",
-          "v": "10 × 10cm"
-        }
-      ],
-      "detail": "옵션마다 추가 금액을 붙일 수 있어요. 블랙은 1,000원이 더해져요.",
-      "detailImages": [],
-      "maxQty": 5,
-      "createdAt": "2026-11-16"
-    },
-    {
       "id": "sample-soldout",
       "sku": "P-0003",
       "name": "품절 샘플 상품",
