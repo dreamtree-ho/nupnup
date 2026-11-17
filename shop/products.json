@@ -219,31 +219,6 @@
       "maxQty": 10,
       "createdAt": "2026-11-18",
       "updated": "2026-11-18"
-    },
-    {
-      "id": "sample-soldout",
-      "sku": "P-0003",
-      "name": "품절 샘플 상품",
-      "category": "소품",
-      "summary": "상태를 품절로 바꾸면 이렇게 보여요.",
-      "listPrice": 0,
-      "price": 9000,
-      "salePrice": 0,
-      "saleStart": "",
-      "saleEnd": "",
-      "stock": null,
-      "status": "품절",
-      "featured": false,
-      "badges": [],
-      "images": [
-        "shop/images/sample-3.svg"
-      ],
-      "options": [],
-      "specs": [],
-      "detail": "",
-      "detailImages": [],
-      "maxQty": 10,
-      "createdAt": "2026-11-16"
     }
   ]
 }
