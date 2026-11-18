@@ -37,9 +37,9 @@
       "salePrice": 0,
       "saleStart": "",
       "saleEnd": "",
-      "stock": 0,
+      "stock": 5,
       "status": "품절",
-      "featured": false,
+      "featured": true,
       "badges": [
         "입고예정"
       ],
