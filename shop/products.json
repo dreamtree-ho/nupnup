@@ -27,6 +27,44 @@
   ],
   "products": [
     {
+      "id": "noopnoop-bathmat",
+      "sku": "",
+      "name": "눕눕 화장실발매트",
+      "category": "리빙",
+      "summary": "AI 기획 이미지로 먼저 만나는 화장실발매트 · 입고예정 · 현재 주문불가",
+      "listPrice": 0,
+      "price": 34000,
+      "salePrice": 0,
+      "saleStart": "",
+      "saleEnd": "",
+      "stock": 0,
+      "status": "품절",
+      "featured": false,
+      "badges": [
+        "입고예정"
+      ],
+      "images": [
+        "shop/images/20261118-wclbhl.webp"
+      ],
+      "options": [],
+      "specs": [],
+      "notice": [],
+      "detail": "# 눕눕 화장실발매트, 준비 중인 모습을 먼저 만나요\n\n마음에 드는 모습부터 놓을 자리와 관리 조건까지, 고르기 전에 살펴볼 것들을 나눠요.\n\n입고예정 · 표시 판매가 34,000원 · 현재 주문불가.\n\n이미지는 AI로 만든 기획·연출 이미지입니다. 최종 판매제품과 다를 수 있으며 실물·크기·사양·촉감·성능·관리 방법은 확인 전입니다. 최종 사양과 입고일은 확인 후 안내합니다. 현재 구매·예약주문·입고 알림 신청은 받지 않습니다.",
+      "detailImages": [
+        "shop/images/20261118-u3mery.webp",
+        "shop/images/20261118-0djug4.webp",
+        "shop/images/20261118-xoyuh4.webp",
+        "shop/images/20261118-ugutjp.webp",
+        "shop/images/20261118-p8diwg.webp",
+        "shop/images/20261118-wb64js.webp",
+        "shop/images/20261118-8qsvfp.webp",
+        "shop/images/20261118-a9gpkk.webp",
+        "shop/images/20261118-vig6dh.webp"
+      ],
+      "maxQty": 10,
+      "createdAt": "2026-11-18"
+    },
+    {
       "id": "pure-sugar-candy-m",
       "sku": "",
       "name": "퓨어 슈가캔디 파자마_M",
