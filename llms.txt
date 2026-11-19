@@ -23,6 +23,7 @@
 - [브리즈 루체 파자마](https://noopnoop.co.kr/product/breeze-%EB%B8%8C%EB%A6%AC%EC%A6%88-%EB%A3%A8%EC%B2%B4-%ED%8C%8C%EC%9E%90%EB%A7%88/690/category/63/display/1/): 브리즈 파자마
 
 ## 이야기(블로그)
+- [잠옷 허리 고무줄이 한쪽으로 말리면 어떻게 확인하나요?](https://nupnup.vercel.app/story/check-rolled-pajama-waist-elastic.html): 잠옷 허리 부분을 평평하게 놓고 좌우 모양과 접힘 위치를 비교한 뒤, 안쪽 봉제선과 착용 시 당김을 확인하세요.
 - [파자마 주머니 안쪽에 보풀이 모이면 어떻게 정리하나요?](https://nupnup.vercel.app/story/remove-lint-inside-pajama-pocket.html): 파자마 주머니 안쪽의 보풀을 확인하고 느슨한 섬유만 조심스럽게 꺼낸 뒤 원단과 봉제선 상태를 살펴보세요.
 - [잠옷에서 보관 냄새가 날 때 세탁 전에 무엇을 확인하나요?](https://nupnup.vercel.app/story/check-stored-pajamas-odor-before-washing.html): 보관한 잠옷에서 냄새가 난다면 옷의 습기·얼룩과 보관 공간을 살핀 뒤 제품 취급표시에 따라 세탁을 결정하세요.
 - [겨울 여행용 잠옷은 눌러 접어도 괜찮나요?](https://nupnup.vercel.app/story/pack-winter-pajamas-for-travel.html): 겨울 여행용 잠옷을 챙길 때는 접기 전 취급표시와 옷의 상태를 보고, 가방에서 꺼낸 뒤 눌린 부분을 확인하세요.
@@ -54,4 +55,3 @@
 - [잠옷을 자연 건조할 때 옷걸이 자국을 줄이려면 무엇을 확인하나요?](https://nupnup.vercel.app/story/air-dry-pajamas-without-hanger-marks.html): 걸기와 평평 건조를 구분하고 어깨선, 젖은 옷의 무게와 통풍 간격을 확인하는 기준
 - [짙은색 잠옷은 첫 세탁 때 다른 옷과 분리해야 하나요?](https://nupnup.vercel.app/story/wash-dark-pajamas-separately-first.html): 취급표시와 수온을 확인하고 밝은 옷을 제외해 비슷한 색과 조건끼리 나누는 첫 세탁 기준
 - [잠옷의 세탁 라벨이 흐려졌다면 관리법을 어떻게 확인하나요?](https://nupnup.vercel.app/story/recover-faded-pajama-care-label.html): 남은 글자와 기호, 제품명과 품번을 기록하고 공식 제품 안내로 관리법을 다시 찾는 순서
-- [파자마 단추가 느슨해졌을 때 세탁 전에 어떻게 점검하나요?](https://nupnup.vercel.app/story/inspect-loose-pajama-button-before-washing.html): 단추의 균열과 실, 원단과 단춧구멍을 확인하고 세탁 전에 보강 또는 수선 여부를 정하는 순서

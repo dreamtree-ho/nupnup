@@ -5,7 +5,15 @@
     <link>https://nupnup.vercel.app/story/</link>
     <description>기분 좋은 밤을 만드는 noop noop의 홈웨어와 브랜드 이야기</description>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 18 Nov 2026 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 00:00:00 +0900</lastBuildDate>
+    <item>
+      <title>잠옷 허리 고무줄이 한쪽으로 말리면 어떻게 확인하나요?</title>
+      <link>https://nupnup.vercel.app/story/check-rolled-pajama-waist-elastic.html</link>
+      <description>잠옷 허리 부분을 평평하게 놓고 좌우 모양과 접힘 위치를 비교한 뒤, 안쪽 봉제선과 착용 시 당김을 확인하세요.</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://nupnup.vercel.app/story/check-rolled-pajama-waist-elastic.html</guid>
+    </item>
+
     <item>
       <title>파자마 주머니 안쪽에 보풀이 모이면 어떻게 정리하나요?</title>
       <link>https://nupnup.vercel.app/story/remove-lint-inside-pajama-pocket.html</link>
@@ -156,14 +164,6 @@
       <description>완전히 마른 잠옷의 소매 끝과 바짓단에서 좌우 길이, 봉제선 비틀림과 울음, 남은 얼룩 및 실밥을 확인하는 순서입니다.</description>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0900</pubDate>
       <guid isPermaLink="true">https://nupnup.vercel.app/story/inspect-pajama-cuffs-hems-after-washing.html</guid>
-    </item>
-
-    <item>
-      <title>잠옷을 세탁 후 바로 개지 못할 때 어떻게 두어야 하나요?</title>
-      <link>https://nupnup.vercel.app/story/store-clean-pajamas-before-folding.html</link>
-      <description>세탁한 잠옷을 바로 개지 못할 때 완전히 마른 상태를 확인하고 깨끗한 곳에 펼쳐 두었다가 접어 보관하는 순서입니다.</description>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0900</pubDate>
-      <guid isPermaLink="true">https://nupnup.vercel.app/story/store-clean-pajamas-before-folding.html</guid>
     </item>
 
   </channel>
