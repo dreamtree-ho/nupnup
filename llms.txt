@@ -23,6 +23,7 @@
 - [브리즈 루체 파자마](https://noopnoop.co.kr/product/breeze-%EB%B8%8C%EB%A6%AC%EC%A6%88-%EB%A3%A8%EC%B2%B4-%ED%8C%8C%EC%9E%90%EB%A7%88/690/category/63/display/1/): 브리즈 파자마
 
 ## 이야기(블로그)
+- [파자마를 겨울철 실내 난방기 가까이에 말려도 되나요?](https://nupnup.vercel.app/story/dry-pajamas-away-from-indoor-heater.html): 파자마는 실내 난방기에 걸치거나 가까이 두고 말리지 마세요. 난방기와 거리를 두고 제품 취급표시를 확인해 건조하세요.
 - [잠옷을 접어 선물 상자에 넣을 때 단추는 어떻게 두나요?](https://nupnup.vercel.app/story/fold-pajamas-with-buttons-for-gift-box.html): 잠옷을 선물 상자에 넣기 전 단추를 확인하고, 접힌 원단과 단추가 한곳에 겹쳐 눌리지 않게 정리하세요.
 - [로브 고리 부분의 실이 풀려 보이면 무엇을 점검하나요?](https://nupnup.vercel.app/story/inspect-loose-threads-on-robe-loop.html): 로브 고리에서 실이 보이면 고리의 연결 위치와 봉제선, 실이 이어진 방향을 먼저 살펴보세요.
 - [잠옷 허리 고무줄이 한쪽으로 말리면 어떻게 확인하나요?](https://nupnup.vercel.app/story/check-rolled-pajama-waist-elastic.html): 잠옷 허리 부분을 평평하게 놓고 좌우 모양과 접힘 위치를 비교한 뒤, 안쪽 봉제선과 착용 시 당김을 확인하세요.
@@ -54,4 +55,3 @@
 - [파자마 허리 고무 밴드는 세탁 후 어떻게 점검하나요?](https://nupnup.vercel.app/story/inspect-pajama-elastic-waistband-after-washing.html): 완전히 마른 뒤 허리 밴드의 주름, 꼬임, 봉제선과 구간별 복원 상태를 확인하는 순서
 - [잠옷을 장기간 보관하기 전에 완전히 말랐는지 어떻게 확인하나요?](https://nupnup.vercel.app/story/check-pajamas-dry-before-long-term-storage.html): 허리밴드와 소매 끝, 주머니 안쪽과 겹친 봉제선을 확인하고 완전히 말려 보관하는 기준
 - [가을철 로브는 착용 후 매번 세탁해야 하나요?](https://nupnup.vercel.app/story/wash-autumn-robe-after-every-wear.html): 피부 접촉, 땀·냄새·얼룩·습기와 취급표시로 세탁 시점을 정하는 기준
-- [잠옷을 자연 건조할 때 옷걸이 자국을 줄이려면 무엇을 확인하나요?](https://nupnup.vercel.app/story/air-dry-pajamas-without-hanger-marks.html): 걸기와 평평 건조를 구분하고 어깨선, 젖은 옷의 무게와 통풍 간격을 확인하는 기준

@@ -5,7 +5,15 @@
     <link>https://nupnup.vercel.app/story/</link>
     <description>기분 좋은 밤을 만드는 noop noop의 홈웨어와 브랜드 이야기</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 21 Nov 2026 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 00:00:00 +0900</lastBuildDate>
+    <item>
+      <title>파자마를 겨울철 실내 난방기 가까이에 말려도 되나요?</title>
+      <link>https://nupnup.vercel.app/story/dry-pajamas-away-from-indoor-heater.html</link>
+      <description>파자마는 실내 난방기에 걸치거나 가까이 두고 말리지 마세요. 난방기와 거리를 두고 제품 취급표시를 확인해 건조하세요.</description>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://nupnup.vercel.app/story/dry-pajamas-away-from-indoor-heater.html</guid>
+    </item>
+
     <item>
       <title>잠옷을 접어 선물 상자에 넣을 때 단추는 어떻게 두나요?</title>
       <link>https://nupnup.vercel.app/story/fold-pajamas-with-buttons-for-gift-box.html</link>
@@ -156,14 +164,6 @@
       <description>잠옷에 남은 향수 냄새와 자국, 피부 불편을 확인하고 통풍 또는 전처리 후 세탁 여부를 정하는 기준입니다.</description>
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0900</pubDate>
       <guid isPermaLink="true">https://nupnup.vercel.app/story/wash-pajamas-after-perfume-smell.html</guid>
-    </item>
-
-    <item>
-      <title>잠옷을 계절 교체용 상자에 넣을 때 어떤 순서로 접나요?</title>
-      <link>https://nupnup.vercel.app/story/fold-pajamas-for-seasonal-storage-box.html</link>
-      <description>깨끗하고 완전히 마른 잠옷을 상의, 하의, 세트 구성품 순으로 접고 무게와 장식을 살펴 계절 보관 상자에 넣는 방법입니다.</description>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 +0900</pubDate>
-      <guid isPermaLink="true">https://nupnup.vercel.app/story/fold-pajamas-for-seasonal-storage-box.html</guid>
     </item>
 
   </channel>
